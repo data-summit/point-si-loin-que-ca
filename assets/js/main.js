@@ -36,8 +36,12 @@ function showPage(id, dataset) {
   }
 
   if (window.goatcounter && window.goatcounter.count) {
-    window.goatcounter.count({ path: '/' + id + (dataset ? '/' + dataset : ''), title: id });
+  window.goatcounter.count({
+    path: '/point-si-loin-que-ca/' + id + (dataset ? '/' + dataset : ''),
+    title: id
+});
   }
+  
 }
 
 document.addEventListener('DOMContentLoaded', () => {
