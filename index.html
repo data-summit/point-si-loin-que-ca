@@ -107,6 +107,7 @@
       Attention, si en fin de calcul, je n'ai que des distances inférieures à 2km, alors il faut utiliser un rayon
       plus petit, par exemple 1800m...
     </p>
+    <img src="assets/images/image_2.png" alt="description" style="display:block; margin:0 auto; width:600px; max-width:100%;">
 
     <h2>Étape 2 — Extraction massive des données</h2>
     <p>
@@ -132,14 +133,12 @@
       dizaines de secondes sur un ordinateur classique. On obtient alors, pour chaque point du maillage, sa
       distance à la trace humaine la plus proche. Logiquement, les meilleurs résultats se
       regroupent par zones géographiques : si un point est à 10 km d'une route, son voisin à
-      50 m le sera presque tout autant.
-    </p>
-    <img src="assets/images/image_2.png" alt="description" style="display:block; margin:0 auto; width:600px; max-width:100%;">
+      50m le sera presque tout autant.
+      </p>
 
     <h2>Affinage et résultats finaux</h2>
     <p>
-      Le fond de carte national peut montrer ses limites (imprécisions sur les côtes ou les îles
-      dues à la nature fractale des littoraux). Pour pallier cela, je sélectionne les
+      Le fond de carte national peut montrer ses limites (imprécisions sur les côtes ou les îles). Pour pallier cela, je sélectionne les
       15 zones les plus prometteuses pour une vérification manuelle. Un module
       dédié affiche la carte OSM et permet de valider visuellement que le point est bien sur
       la terre ferme.
@@ -148,10 +147,14 @@
 
     <p>
       Une fois la zone validée, on augmente la précision du maillage à 1 mètre
-      pour obtenir la coordonnée exacte. Nous obtenons ainsi la liste des 15 points les plus
+      pour obtenir la coordonnée exacte. 
+  
+      Une fois le point choisi, on disqualifie tous les autres points de la zone.
+      Cela évite que le top soit tout au même endroit ! C'est un choix arbitraire.
+
+      Nous obtenons ainsi la liste des 15 points les plus
       isolés de France métropolitaine. Cette méthode m'a également permis de décliner des
-      classements par région et par département, ainsi que les points les plus isolés des
-      bâtiments uniquement.
+      classements des points les plus isolés des bâtiments. Voir la page correspondante.
     </p>
     <img src="assets/images/image_4.JPG" alt="description" style="display:block; margin:0 auto; width:600px; max-width:100%;">
 
