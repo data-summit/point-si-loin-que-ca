@@ -1,0 +1,2252 @@
+[
+  {
+    "zone_id": 1,
+    "rank_in_zone": 1,
+    "lat": 41.507351,
+    "lon": 9.381426,
+    "dist_km": 6.631298,
+    "x_l93": 1233784,
+    "y_l93": 6066502.5,
+    "infras": [
+      {"lat": 41.559650331241784, "lon": 9.343141425852568, "dist_km": 6.631298, "osm_tag": "highway", "osm_val": "path"},
+      {"lat": 41.559707514296754, "lon": 9.342940655199914, "dist_km": 6.644915, "osm_tag": "highway", "osm_val": "path"},
+      {"lat": 41.559819329667064, "lon": 9.3426557829803,   "dist_km": 6.667254, "osm_tag": "highway", "osm_val": "path"},
+      {"lat": 41.55978438602379,  "lon": 9.342265225056208, "dist_km": 6.679658, "osm_tag": "highway", "osm_val": "path"},
+      {"lat": 41.55985292957649,  "lon": 9.342323546181094, "dist_km": 6.683946, "osm_tag": "highway", "osm_val": "path"},
+      {"lat": 41.559778912532806, "lon": 9.342057738668379, "dist_km": 6.687573, "osm_tag": "highway", "osm_val": "path"},
+      {"lat": 41.56019685811834,  "lon": 9.342967615714992, "dist_km": 6.691559, "osm_tag": "highway", "osm_val": "path"},
+      {"lat": 41.559776230260475, "lon": 9.341804074001256, "dist_km": 6.697684, "osm_tag": "highway", "osm_val": "path"},
+      {"lat": 41.5603795422273,   "lon": 9.343224084025936, "dist_km": 6.699240, "osm_tag": "highway", "osm_val": "path"},
+      {"lat": 41.56031721401487,  "lon": 9.343062976545465, "dist_km": 6.699526, "osm_tag": "highway", "osm_val": "path"}
+    ]
+  },
+  {
+    "zone_id": 2,
+    "rank_in_zone": 1,
+    "lat": 45.92251926495015,
+    "lon": 7.028959720641781,
+    "dist_km": 3.090791,
+    "x_l93": 1012116.6,
+    "y_l93": 6543834,
+    "infras": [
+      {
+        "lat": 45.89536452779124,
+        "lon": 7.037703896963695,
+        "dist_km": 3.090791,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 45.94166631347779,
+        "lon": 7.000000147729551,
+        "dist_km": 3.091403,
+        "osm_tag": "aeroway",
+        "osm_val": "aerodrome"
+      },
+      {
+        "lat": 45.92728827371195,
+        "lon": 7.0682607041468035,
+        "dist_km": 3.09147,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 45.89525897778587,
+        "lon": 7.03775588498807,
+        "dist_km": 3.103111,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 45.895243675739934,
+        "lon": 7.037805609908122,
+        "dist_km": 3.105618,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 45.94643549981458,
+        "lon": 7.008164850559783,
+        "dist_km": 3.10646,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 45.92729445906449,
+        "lon": 7.068464669667728,
+        "dist_km": 3.107162,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 45.946540120387155,
+        "lon": 7.008393005732432,
+        "dist_km": 3.107295,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 45.89521080992919,
+        "lon": 7.037716035470384,
+        "dist_km": 3.107653,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 45.89518544137409,
+        "lon": 7.037668979171315,
+        "dist_km": 3.109608,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      }
+    ]
+  },
+  {
+    "zone_id": 3,
+    "rank_in_zone": 40,
+    "lat": 42.33643925604631,
+    "lon": 8.555433581264678,
+    "dist_km": 2.704491,
+    "x_l93": 1158214.5,
+    "y_l93": 6153504,
+    "infras": [
+      {
+        "lat": 42.355974934403754,
+        "lon": 8.574932146215318,
+        "dist_km": 2.704491,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 42.35600444643469,
+        "lon": 8.574884848008084,
+        "dist_km": 2.704812,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 42.35597925866318,
+        "lon": 8.57493559562942,
+        "dist_km": 2.705047,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 42.35596926280352,
+        "lon": 8.574954383673319,
+        "dist_km": 2.705077,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 42.37054172694125,
+        "lon": 8.539050550835462,
+        "dist_km": 4.027943,
+        "osm_tag": "building",
+        "osm_val": "tower"
+      },
+      {
+        "lat": 42.37053889764455,
+        "lon": 8.539018386294012,
+        "dist_km": 4.028538,
+        "osm_tag": "building",
+        "osm_val": "tower"
+      },
+      {
+        "lat": 42.370558398910624,
+        "lon": 8.539076432664721,
+        "dist_km": 4.028974,
+        "osm_tag": "building",
+        "osm_val": "tower"
+      },
+      {
+        "lat": 42.37054511304815,
+        "lon": 8.53898555990442,
+        "dist_km": 4.030101,
+        "osm_tag": "building",
+        "osm_val": "tower"
+      },
+      {
+        "lat": 42.370580420080955,
+        "lon": 8.539086113704514,
+        "dist_km": 4.031015,
+        "osm_tag": "building",
+        "osm_val": "tower"
+      },
+      {
+        "lat": 42.370583097488364,
+        "lon": 8.539034725494771,
+        "dist_km": 4.032717,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      }
+    ]
+  },
+  {
+    "zone_id": 4,
+    "rank_in_zone": 1,
+    "lat": 42.39803068935289,
+    "lon": 8.832131951034139,
+    "dist_km": 2.430958,
+    "x_l93": 1180490.5,
+    "y_l93": 6161983.5,
+    "infras": [
+      {
+        "lat": 42.41210815833033,
+        "lon": 8.809583022296634,
+        "dist_km": 2.430958,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 42.388662087546614,
+        "lon": 8.85876703775149,
+        "dist_km": 2.431307,
+        "osm_tag": "landuse",
+        "osm_val": "forest"
+      },
+      {
+        "lat": 42.412227461947694,
+        "lon": 8.809708914189487,
+        "dist_km": 2.431627,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 42.41203683592442,
+        "lon": 8.809486228623031,
+        "dist_km": 2.431976,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 42.37628053730678,
+        "lon": 8.828969203913651,
+        "dist_km": 2.433869,
+        "osm_tag": "landuse",
+        "osm_val": "forest"
+      },
+      {
+        "lat": 42.41241597871209,
+        "lon": 8.809805203135909,
+        "dist_km": 2.439303,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 42.376765002069575,
+        "lon": 8.824570127175862,
+        "dist_km": 2.446771,
+        "osm_tag": "highway",
+        "osm_val": "footway"
+      },
+      {
+        "lat": 42.41265586305647,
+        "lon": 8.80986859369584,
+        "dist_km": 2.452979,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 42.376238708778864,
+        "lon": 8.827266311963202,
+        "dist_km": 2.457491,
+        "osm_tag": "landuse",
+        "osm_val": "forest"
+      },
+      {
+        "lat": 42.388012649857785,
+        "lon": 8.858694318048174,
+        "dist_km": 2.457812,
+        "osm_tag": "landuse",
+        "osm_val": "forest"
+      }
+    ]
+  },
+  {
+    "zone_id": 5,
+    "rank_in_zone": 1,
+    "lat": 45.351096466826256,
+    "lon": 6.9670655211479975,
+    "dist_km": 2.338345,
+    "x_l93": 1010512.6,
+    "y_l93": 6480213.5,
+    "infras": [
+      {
+        "lat": 45.33184795775473,
+        "lon": 6.954964327501383,
+        "dist_km": 2.338345,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 45.36766626008631,
+        "lon": 6.985502691113833,
+        "dist_km": 2.338799,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 45.367581176141684,
+        "lon": 6.948474765440729,
+        "dist_km": 2.338837,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 45.331841753992016,
+        "lon": 6.954884797358578,
+        "dist_km": 2.341506,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 45.331841753992016,
+        "lon": 6.954884797358578,
+        "dist_km": 2.341506,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 45.33183720107056,
+        "lon": 6.9548860715514635,
+        "dist_km": 2.341927,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 45.36750011840629,
+        "lon": 6.985864108416481,
+        "dist_km": 2.34199,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 45.367562743686726,
+        "lon": 6.948358344518422,
+        "dist_km": 2.342922,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 45.331808362065864,
+        "lon": 6.95493674813541,
+        "dist_km": 2.34324,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 45.367841006838304,
+        "lon": 6.985279387464638,
+        "dist_km": 2.343417,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      }
+    ]
+  },
+  {
+    "zone_id": 6,
+    "rank_in_zone": 1,
+    "lat": 41.392866,
+    "lon": 9.264685,
+    "dist_km": 1.848428,
+    "x_l93": 1224983,
+    "y_l93": 6053132,
+    "infras": [
+      {"lat": 41.40099657639357,  "lon": 9.245356445509078, "dist_km": 1.848428, "osm_tag": "highway", "osm_val": "path"},
+      {"lat": 41.40106657825624,  "lon": 9.245390726471205, "dist_km": 1.849758, "osm_tag": "highway", "osm_val": "path"},
+      {"lat": 41.40115306088944,  "lon": 9.245450664420202, "dist_km": 1.850180, "osm_tag": "highway", "osm_val": "path"},
+      {"lat": 41.4009637034643,   "lon": 9.245303646108688, "dist_km": 1.850489, "osm_tag": "highway", "osm_val": "path"},
+      {"lat": 41.40110614272156,  "lon": 9.245406852237709, "dist_km": 1.850762, "osm_tag": "highway", "osm_val": "path"},
+      {"lat": 41.40130462711421,  "lon": 9.245551841756122, "dist_km": 1.851350, "osm_tag": "highway", "osm_val": "path"},
+      {"lat": 41.40127928529362,  "lon": 9.245523756842411, "dist_km": 1.851944, "osm_tag": "highway", "osm_val": "path"},
+      {"lat": 41.40138690082679,  "lon": 9.245606851714493, "dist_km": 1.852058, "osm_tag": "highway", "osm_val": "path"},
+      {"lat": 41.40119342336941,  "lon": 9.24545341809399,  "dist_km": 1.852220, "osm_tag": "highway", "osm_val": "path"},
+      {"lat": 41.40146935186283,  "lon": 9.245658890221671, "dist_km": 1.853045, "osm_tag": "highway", "osm_val": "path"}
+    ]
+  },
+  {
+    "zone_id": 7,
+    "rank_in_zone": 1,
+    "lat": 43.498273890064176,
+    "lon": 4.539314797534822,
+    "dist_km": 2.201917,
+    "x_l93": 824541.6,
+    "y_l93": 6267790.5,
+    "infras": [
+      {
+        "lat": 43.49160804355931,
+        "lon": 4.564940136200308,
+        "dist_km": 2.201917,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 43.49800442321397,
+        "lon": 4.512093387151991,
+        "dist_km": 2.202756,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 43.49820762598651,
+        "lon": 4.512040789495752,
+        "dist_km": 2.206816,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 43.49170457230475,
+        "lon": 4.5651103977432665,
+        "dist_km": 2.211328,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 43.49800600595471,
+        "lon": 4.51197985964444,
+        "dist_km": 2.211938,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 43.49134546707076,
+        "lon": 4.56505195246599,
+        "dist_km": 2.220397,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 43.51816824330534,
+        "lon": 4.533095363521837,
+        "dist_km": 2.267727,
+        "osm_tag": "waterway",
+        "osm_val": "ditch"
+      },
+      {
+        "lat": 43.51848181383045,
+        "lon": 4.5322381291442415,
+        "dist_km": 2.31787,
+        "osm_tag": "waterway",
+        "osm_val": "ditch"
+      },
+      {
+        "lat": 43.51609100090995,
+        "lon": 4.554492108725645,
+        "dist_km": 2.330084,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 43.51607858484803,
+        "lon": 4.554730577377014,
+        "dist_km": 2.33914,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      }
+    ]
+  },
+  {
+    "zone_id": 8,
+    "rank_in_zone": 1,
+    "lat": 44.915250598788234,
+    "lon": 6.123990993950487,
+    "dist_km": 2.206695,
+    "x_l93": 946476.6,
+    "y_l93": 6428882.5,
+    "infras": [
+      {
+        "lat": 44.89548431144802,
+        "lon": 6.121166186604031,
+        "dist_km": 2.206695,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 44.93326368662329,
+        "lon": 6.135793976350355,
+        "dist_km": 2.206814,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 44.93059018408814,
+        "lon": 6.106189071641805,
+        "dist_km": 2.208144,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 44.89543422418811,
+        "lon": 6.1210247482284466,
+        "dist_km": 2.213383,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 44.933367369482596,
+        "lon": 6.135791847723756,
+        "dist_km": 2.217189,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 44.895356210512915,
+        "lon": 6.121395954992628,
+        "dist_km": 2.219103,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 44.930735037030814,
+        "lon": 6.1061645930915205,
+        "dist_km": 2.221802,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 44.89527498735779,
+        "lon": 6.121721029212189,
+        "dist_km": 2.225874,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 44.895272624230415,
+        "lon": 6.121644837615646,
+        "dist_km": 2.226627,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 44.89529986227718,
+        "lon": 6.121156716338485,
+        "dist_km": 2.227152,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      }
+    ]
+  },
+  {
+    "zone_id": 10,
+    "rank_in_zone": 449,
+    "lat": 48.58277134817683,
+    "lon": 4.732579823152709,
+    "dist_km": 1.924998,
+    "x_l93": 827783.6,
+    "y_l93": 6832797.5,
+    "infras": [
+      {
+        "lat": 48.59962920341519,
+        "lon": 4.726616106776339,
+        "dist_km": 1.924998,
+        "osm_tag": "landuse",
+        "osm_val": "forest"
+      },
+      {
+        "lat": 48.565693982393945,
+        "lon": 4.728251556713332,
+        "dist_km": 1.925124,
+        "osm_tag": "aeroway",
+        "osm_val": "airstrip"
+      },
+      {
+        "lat": 48.59959968382264,
+        "lon": 4.726170024970349,
+        "dist_km": 1.929597,
+        "osm_tag": "landuse",
+        "osm_val": "forest"
+      },
+      {
+        "lat": 48.59951820466134,
+        "lon": 4.724963428808996,
+        "dist_km": 1.944629,
+        "osm_tag": "landuse",
+        "osm_val": "forest"
+      },
+      {
+        "lat": 48.59997397802628,
+        "lon": 4.727348132121198,
+        "dist_km": 1.950942,
+        "osm_tag": "landuse",
+        "osm_val": "forest"
+      },
+      {
+        "lat": 48.600008693611976,
+        "lon": 4.7265056840623005,
+        "dist_km": 1.967931,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 48.599320711925614,
+        "lon": 4.723068826782733,
+        "dist_km": 1.968959,
+        "osm_tag": "landuse",
+        "osm_val": "forest"
+      },
+      {
+        "lat": 48.60007228161775,
+        "lon": 4.72677400029667,
+        "dist_km": 1.970421,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 48.59889959930256,
+        "lon": 4.721392408290358,
+        "dist_km": 1.973691,
+        "osm_tag": "man_made",
+        "osm_val": "pier"
+      },
+      {
+        "lat": 48.60014173027416,
+        "lon": 4.726948400858951,
+        "dist_km": 1.975214,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      }
+    ]
+  },
+  {
+    "zone_id": 11,
+    "rank_in_zone": 1,
+    "lat": 45.26192052010245,
+    "lon": 7.053988377122552,
+    "dist_km": 2.062117,
+    "x_l93": 1017818.6,
+    "y_l93": 6470668.5,
+    "infras": [
+      {
+        "lat": 45.28045280585957,
+        "lon": 7.0556182370782805,
+        "dist_km": 2.062117,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 45.248870671808916,
+        "lon": 7.035286189325963,
+        "dist_km": 2.062169,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 45.24682377002441,
+        "lon": 7.069335957909983,
+        "dist_km": 2.064071,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 45.28047361129414,
+        "lon": 7.055666047447162,
+        "dist_km": 2.064659,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 45.280473466832355,
+        "lon": 7.055670027911946,
+        "dist_km": 2.064663,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 45.24901250447709,
+        "lon": 7.034978960426687,
+        "dist_km": 2.068432,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 45.24677373241458,
+        "lon": 7.069348258673861,
+        "dist_km": 2.069149,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 45.24675313867323,
+        "lon": 7.069418549871925,
+        "dist_km": 2.074222,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 45.24870018737632,
+        "lon": 7.0352634742272215,
+        "dist_km": 2.07678,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 45.24843090603481,
+        "lon": 7.0356045490176236,
+        "dist_km": 2.07939,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      }
+    ]
+  },
+  {
+    "zone_id": 12,
+    "rank_in_zone": 1,
+    "lat": 47.09927356719545,
+    "lon": -1.6873831350031718,
+    "dist_km": 1.896764,
+    "x_l93": 344685.5,
+    "y_l93": 6677106.5,
+    "infras": [
+      {
+        "lat": 47.11560284625156,
+        "lon": -1.694701771468808,
+        "dist_km": 1.896764,
+        "osm_tag": "waterway",
+        "osm_val": "canal"
+      },
+      {
+        "lat": 47.09425715606078,
+        "lon": -1.7120296586412795,
+        "dist_km": 1.950716,
+        "osm_tag": "waterway",
+        "osm_val": "canal"
+      },
+      {
+        "lat": 47.08200422336618,
+        "lon": -1.677658563083869,
+        "dist_km": 2.055116,
+        "osm_tag": "waterway",
+        "osm_val": "canal"
+      },
+      {
+        "lat": 47.081176035574615,
+        "lon": -1.6789556639952774,
+        "dist_km": 2.109354,
+        "osm_tag": "waterway",
+        "osm_val": "canal"
+      },
+      {
+        "lat": 47.11657855346253,
+        "lon": -1.6995415439554724,
+        "dist_km": 2.131828,
+        "osm_tag": "waterway",
+        "osm_val": "canal"
+      },
+      {
+        "lat": 47.07983776161381,
+        "lon": -1.6811548982333464,
+        "dist_km": 2.209884,
+        "osm_tag": "waterway",
+        "osm_val": "canal"
+      },
+      {
+        "lat": 47.11867742186878,
+        "lon": -1.69405780340848,
+        "dist_km": 2.21389,
+        "osm_tag": "waterway",
+        "osm_val": "canal"
+      },
+      {
+        "lat": 47.078708407597844,
+        "lon": -1.6828717246308527,
+        "dist_km": 2.309722,
+        "osm_tag": "waterway",
+        "osm_val": "canal"
+      },
+      {
+        "lat": 47.11831518214209,
+        "lon": -1.700971036517462,
+        "dist_km": 2.352669,
+        "osm_tag": "waterway",
+        "osm_val": "canal"
+      },
+      {
+        "lat": 47.106486392506966,
+        "lon": -1.7165776611497296,
+        "dist_km": 2.354648,
+        "osm_tag": "highway",
+        "osm_val": "track"
+      }
+    ]
+  },
+  {
+    "zone_id": 14,
+    "rank_in_zone": 1,
+    "lat": 41.916894883617225,
+    "lon": 9.216073476240648,
+    "dist_km": 2.006725,
+    "x_l93": 1216269.5,
+    "y_l93": 6111019.5,
+    "infras": [
+      {
+        "lat": 41.91385486036094,
+        "lon": 9.239863952912334,
+        "dist_km": 2.006725,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 41.92642672222474,
+        "lon": 9.195581259579862,
+        "dist_km": 2.006979,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 41.899227792851406,
+        "lon": 9.211183603771328,
+        "dist_km": 2.008216,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 41.89919686709822,
+        "lon": 9.211249695279733,
+        "dist_km": 2.010484,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 41.92840856390609,
+        "lon": 9.19743410838395,
+        "dist_km": 2.010869,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 41.92626738404561,
+        "lon": 9.19537895423905,
+        "dist_km": 2.012022,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 41.92848160849725,
+        "lon": 9.197494596435623,
+        "dist_km": 2.012198,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 41.928570363911376,
+        "lon": 9.197594450151088,
+        "dist_km": 2.0122,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 41.928688616280965,
+        "lon": 9.197729088068611,
+        "dist_km": 2.012229,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 41.89918705147873,
+        "lon": 9.211186843876463,
+        "dist_km": 2.012603,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      }
+    ]
+  },
+  {
+    "zone_id": 15,
+    "rank_in_zone": 1,
+    "lat": 45.169950760630286,
+    "lon": 6.780509279247318,
+    "dist_km": 1.99146,
+    "x_l93": 996884.6,
+    "y_l93": 6459402.5,
+    "infras": [
+      {
+        "lat": 45.18336063864638,
+        "lon": 6.797340169733225,
+        "dist_km": 1.99146,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 45.15246918076199,
+        "lon": 6.774864254947447,
+        "dist_km": 1.99153,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 45.181110583144886,
+        "lon": 6.760641285149672,
+        "dist_km": 1.992952,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 45.183392847207806,
+        "lon": 6.79732085129999,
+        "dist_km": 1.993131,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 45.183505803975045,
+        "lon": 6.797180355734165,
+        "dist_km": 1.995283,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 45.18330489657653,
+        "lon": 6.797521205633141,
+        "dist_km": 1.996326,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 45.18355150314039,
+        "lon": 6.797161955204871,
+        "dist_km": 1.998168,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 45.183651624702904,
+        "lon": 6.797133714503817,
+        "dist_km": 2.005141,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 45.1832452040459,
+        "lon": 6.797818287242627,
+        "dist_km": 2.00714,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 45.18376748213001,
+        "lon": 6.797040419700423,
+        "dist_km": 2.01018,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      }
+    ]
+  },
+  {
+    "zone_id": 16,
+    "rank_in_zone": 1,
+    "lat": 45.00241190234859,
+    "lon": 6.347323125031186,
+    "dist_km": 1.948288,
+    "x_l93": 963676.6,
+    "y_l93": 6439276.5,
+    "infras": [
+      {
+        "lat": 45.01666439433445,
+        "lon": 6.332906504585706,
+        "dist_km": 1.948288,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 45.01380791410136,
+        "lon": 6.366123611411077,
+        "dist_km": 1.948355,
+        "osm_tag": "landuse",
+        "osm_val": "forest"
+      },
+      {
+        "lat": 44.985175644745325,
+        "lon": 6.342717511027356,
+        "dist_km": 1.948451,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 45.01668153103412,
+        "lon": 6.332936112474766,
+        "dist_km": 1.948476,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 44.985204778019806,
+        "lon": 6.342497820135683,
+        "dist_km": 1.948577,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 44.9851875695907,
+        "lon": 6.34262060323642,
+        "dist_km": 1.948588,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 45.01384050186323,
+        "lon": 6.366089043836611,
+        "dist_km": 1.948641,
+        "osm_tag": "landuse",
+        "osm_val": "forest"
+      },
+      {
+        "lat": 44.98520144705004,
+        "lon": 6.342458732239064,
+        "dist_km": 1.949543,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 45.01392249347647,
+        "lon": 6.366059829315711,
+        "dist_km": 1.952844,
+        "osm_tag": "landuse",
+        "osm_val": "forest"
+      },
+      {
+        "lat": 45.01671874886949,
+        "lon": 6.332897035541698,
+        "dist_km": 1.953629,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      }
+    ]
+  },
+  {
+    "zone_id": 17,
+    "rank_in_zone": 1,
+    "lat": 44.6509509357734,
+    "lon": 6.381086260617799,
+    "dist_km": 1.872611,
+    "x_l93": 968005.6,
+    "y_l93": 6400388.5,
+    "infras": [
+      {
+        "lat": 44.66562023578313,
+        "lon": 6.392726551953189,
+        "dist_km": 1.872611,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 44.665639723116996,
+        "lon": 6.3926787970383305,
+        "dist_km": 1.872634,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 44.63735153440708,
+        "lon": 6.367127681668982,
+        "dist_km": 1.87274,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 44.6374330723678,
+        "lon": 6.36696533507067,
+        "dist_km": 1.873109,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 44.66560998456482,
+        "lon": 6.392766971507745,
+        "dist_km": 1.873203,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 44.63411980649302,
+        "lon": 6.382663361825776,
+        "dist_km": 1.873748,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 44.637381012350744,
+        "lon": 6.367047411235872,
+        "dist_km": 1.873874,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 44.66566791486443,
+        "lon": 6.392641036580099,
+        "dist_km": 1.873898,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 44.63740044042019,
+        "lon": 6.367001246039875,
+        "dist_km": 1.874318,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 44.63731447712886,
+        "lon": 6.367160961732081,
+        "dist_km": 1.874506,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      }
+    ]
+  },
+  {
+    "zone_id": 18,
+    "rank_in_zone": 1,
+    "lat": 42.212213840488246,
+    "lon": 9.08653645855058,
+    "dist_km": 1.86821,
+    "x_l93": 1203001.5,
+    "y_l93": 6142951.5,
+    "infras": [
+      {
+        "lat": 42.22893868363768,
+        "lon": 9.084564917686885,
+        "dist_km": 1.86821,
+        "osm_tag": "building",
+        "osm_val": "ruins"
+      },
+      {
+        "lat": 42.19671239542828,
+        "lon": 9.095217353083722,
+        "dist_km": 1.868518,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 42.22894293746708,
+        "lon": 9.08441224501798,
+        "dist_km": 1.869826,
+        "osm_tag": "building",
+        "osm_val": "ruins"
+      },
+      {
+        "lat": 42.228988136864224,
+        "lon": 9.084567023285825,
+        "dist_km": 1.873677,
+        "osm_tag": "building",
+        "osm_val": "ruins"
+      },
+      {
+        "lat": 42.22898616460267,
+        "lon": 9.0845228547629,
+        "dist_km": 1.873779,
+        "osm_tag": "building",
+        "osm_val": "ruins"
+      },
+      {
+        "lat": 42.22902665778124,
+        "lon": 9.084524029496093,
+        "dist_km": 1.878259,
+        "osm_tag": "building",
+        "osm_val": "ruins"
+      },
+      {
+        "lat": 42.196593345950475,
+        "lon": 9.095171636323158,
+        "dist_km": 1.879315,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 42.22903288387694,
+        "lon": 9.084415525146865,
+        "dist_km": 1.879765,
+        "osm_tag": "building",
+        "osm_val": "ruins"
+      },
+      {
+        "lat": 42.20661433792424,
+        "lon": 9.064954401845425,
+        "dist_km": 1.891035,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 42.206531025845614,
+        "lon": 9.064992754586047,
+        "dist_km": 1.89112,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      }
+    ]
+  },
+  {
+    "zone_id": 19,
+    "rank_in_zone": 1,
+    "lat": 45.78025149751177,
+    "lon": 6.797706486084505,
+    "dist_km": 1.867134,
+    "x_l93": 994975.6,
+    "y_l93": 6527165.5,
+    "infras": [
+      {
+        "lat": 45.77425527474705,
+        "lon": 6.820154607969333,
+        "dist_km": 1.867134,
+        "osm_tag": "amenity",
+        "osm_val": "shelter"
+      },
+      {
+        "lat": 45.79149025711297,
+        "lon": 6.779824822704233,
+        "dist_km": 1.867575,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 45.77426375196769,
+        "lon": 6.820170493498008,
+        "dist_km": 1.867952,
+        "osm_tag": "amenity",
+        "osm_val": "shelter"
+      },
+      {
+        "lat": 45.76689525737378,
+        "lon": 6.783094193112149,
+        "dist_km": 1.867993,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 45.77426342535511,
+        "lon": 6.8201801334211165,
+        "dist_km": 1.868665,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 45.79226252021878,
+        "lon": 6.780857138357646,
+        "dist_km": 1.868907,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 45.774241129990614,
+        "lon": 6.820172954333069,
+        "dist_km": 1.869027,
+        "osm_tag": "amenity",
+        "osm_val": "shelter"
+      },
+      {
+        "lat": 45.77425862878182,
+        "lon": 6.820188658856007,
+        "dist_km": 1.869474,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 45.77424960720865,
+        "lon": 6.820188839860492,
+        "dist_km": 1.869844,
+        "osm_tag": "amenity",
+        "osm_val": "shelter"
+      },
+      {
+        "lat": 45.774253723336386,
+        "lon": 6.820200397596503,
+        "dist_km": 1.87052,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      }
+    ]
+  },
+  {
+    "zone_id": 21,
+    "rank_in_zone": 1,
+    "lat": 41.77573039350008,
+    "lon": 9.334015965359246,
+    "dist_km": 1.806849,
+    "x_l93": 1227303.5,
+    "y_l93": 6096133.5,
+    "infras": [
+      {
+        "lat": 41.77815074345162,
+        "lon": 9.355454709141737,
+        "dist_km": 1.806849,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 41.77952876028339,
+        "lon": 9.312936567128254,
+        "dist_km": 1.806859,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 41.779559828186834,
+        "lon": 9.312944407010303,
+        "dist_km": 1.807036,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 41.76482342760953,
+        "lon": 9.350077103403564,
+        "dist_km": 1.807351,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 41.77953932769853,
+        "lon": 9.31291061176865,
+        "dist_km": 1.809237,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 41.76489152363172,
+        "lon": 9.350367277578904,
+        "dist_km": 1.820301,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 41.764879166512145,
+        "lon": 9.350572062290006,
+        "dist_km": 1.83402,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 41.76479377622789,
+        "lon": 9.35071783178933,
+        "dist_km": 1.849425,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 41.77826795538047,
+        "lon": 9.355975975105228,
+        "dist_km": 1.85176,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 41.7921653282638,
+        "lon": 9.330367357551118,
+        "dist_km": 1.854822,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      }
+    ]
+  },
+  {
+    "zone_id": 22,
+    "rank_in_zone": 1,
+    "lat": 42.437501559000765,
+    "lon": 9.063803915598333,
+    "dist_km": 1.808201,
+    "x_l93": 1199203.5,
+    "y_l93": 6167799.5,
+    "infras": [
+      {
+        "lat": 42.4242459213882,
+        "lon": 9.076499775376643,
+        "dist_km": 1.808201,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 42.453540515483276,
+        "lon": 9.060230975276271,
+        "dist_km": 1.808456,
+        "osm_tag": "highway",
+        "osm_val": "secondary"
+      },
+      {
+        "lat": 42.45356507913969,
+        "lon": 9.060432878485376,
+        "dist_km": 1.808523,
+        "osm_tag": "highway",
+        "osm_val": "secondary"
+      },
+      {
+        "lat": 42.445365026241205,
+        "lon": 9.044594190033814,
+        "dist_km": 1.808549,
+        "osm_tag": "man_made",
+        "osm_val": "mast"
+      },
+      {
+        "lat": 42.45356550446892,
+        "lon": 9.06010878474089,
+        "dist_km": 1.812863,
+        "osm_tag": "highway",
+        "osm_val": "secondary"
+      },
+      {
+        "lat": 42.426048146434525,
+        "lon": 9.079512000711322,
+        "dist_km": 1.816458,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 42.42614843043795,
+        "lon": 9.079650214735008,
+        "dist_km": 1.816819,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 42.42425088833231,
+        "lon": 9.076728447699908,
+        "dist_km": 1.818724,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 42.425918210971105,
+        "lon": 9.0794193743496,
+        "dist_km": 1.821226,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 42.423974934830056,
+        "lon": 9.076272318079955,
+        "dist_km": 1.822237,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      }
+    ]
+  },
+  {
+    "zone_id": 23,
+    "rank_in_zone": 1,
+    "lat": 42.19925490900202,
+    "lon": 9.267445403729884,
+    "dist_km": 1.779082,
+    "x_l93": 1218035.5,
+    "y_l93": 6142683.5,
+    "infras": [
+      {
+        "lat": 42.21505097881625,
+        "lon": 9.270765185557241,
+        "dist_km": 1.779082,
+        "osm_tag": "landuse",
+        "osm_val": "meadow"
+      },
+      {
+        "lat": 42.186508827068984,
+        "lon": 9.254465522481762,
+        "dist_km": 1.779181,
+        "osm_tag": "highway",
+        "osm_val": "track"
+      },
+      {
+        "lat": 42.20667220931339,
+        "lon": 9.286504662750104,
+        "dist_km": 1.779851,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 42.20672792293145,
+        "lon": 9.286477295705877,
+        "dist_km": 1.780731,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 42.20671100174317,
+        "lon": 9.286534592807893,
+        "dist_km": 1.784048,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 42.21545330549809,
+        "lon": 9.271431299870782,
+        "dist_km": 1.832439,
+        "osm_tag": "landuse",
+        "osm_val": "meadow"
+      },
+      {
+        "lat": 42.18639511038362,
+        "lon": 9.253413998197052,
+        "dist_km": 1.842835,
+        "osm_tag": "highway",
+        "osm_val": "track"
+      },
+      {
+        "lat": 42.21565283307999,
+        "lon": 9.270953924079274,
+        "dist_km": 1.847669,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 42.215664999546,
+        "lon": 9.270900653373694,
+        "dist_km": 1.848319,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 42.21551951541211,
+        "lon": 9.272064464298733,
+        "dist_km": 1.849794,
+        "osm_tag": "landuse",
+        "osm_val": "meadow"
+      }
+    ]
+  },
+  {
+    "zone_id": 24,
+    "rank_in_zone": 1,
+    "lat": 44.79802513266596,
+    "lon": 6.397809143221512,
+    "dist_km": 1.776898,
+    "x_l93": 968627.6,
+    "y_l93": 6416766.5,
+    "infras": [
+      {
+        "lat": 44.811070723861825,
+        "lon": 6.384802569655603,
+        "dist_km": 1.776898,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 44.8022564670019,
+        "lon": 6.419480142242833,
+        "dist_km": 1.777029,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 44.78250629322228,
+        "lon": 6.403274975872015,
+        "dist_km": 1.777097,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 44.81109224670539,
+        "lon": 6.384835515113047,
+        "dist_km": 1.777343,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 44.78251298473136,
+        "lon": 6.403350509032043,
+        "dist_km": 1.77784,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 44.8023381749715,
+        "lon": 6.419460591030095,
+        "dist_km": 1.777961,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 44.8021739794982,
+        "lon": 6.41952496128792,
+        "dist_km": 1.778052,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 44.811037468821375,
+        "lon": 6.384711158685441,
+        "dist_km": 1.778088,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 44.782485406417095,
+        "lon": 6.403221516949974,
+        "dist_km": 1.778325,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 44.78245094232572,
+        "lon": 6.403023306753003,
+        "dist_km": 1.77834,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      }
+    ]
+  },
+  {
+    "zone_id": 25,
+    "rank_in_zone": 1,
+    "lat": 45.525259833436614,
+    "lon": 6.969814452508391,
+    "dist_km": 1.766114,
+    "x_l93": 1009755.6,
+    "y_l93": 6499541.5,
+    "infras": [
+      {
+        "lat": 45.530419980565306,
+        "lon": 6.9912162531311,
+        "dist_km": 1.766114,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 45.52487656900219,
+        "lon": 6.947192188551717,
+        "dist_km": 1.766427,
+        "osm_tag": "waterway",
+        "osm_val": "canal"
+      },
+      {
+        "lat": 45.50967948353902,
+        "lon": 6.9652404223758655,
+        "dist_km": 1.766715,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 45.53039098207494,
+        "lon": 6.99127109071805,
+        "dist_km": 1.769124,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 45.53040435813955,
+        "lon": 6.991275260532057,
+        "dist_km": 1.76991,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 45.50963341514707,
+        "lon": 6.9652683857019815,
+        "dist_km": 1.771287,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 45.509623122314146,
+        "lon": 6.965304516408888,
+        "dist_km": 1.771844,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 45.53038924752215,
+        "lon": 6.991319873099341,
+        "dist_km": 1.772667,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 45.50960522040624,
+        "lon": 6.965300832406498,
+        "dist_km": 1.77385,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 45.515615770802654,
+        "lon": 6.951587567771654,
+        "dist_km": 1.780945,
+        "osm_tag": "waterway",
+        "osm_val": "canal"
+      }
+    ]
+  },
+  {
+    "zone_id": 26,
+    "rank_in_zone": 1,
+    "lat": 45.30484755157397,
+    "lon": 6.760121218623873,
+    "dist_km": 1.76268,
+    "x_l93": 994571.6,
+    "y_l93": 6474290.5,
+    "infras": [
+      {
+        "lat": 45.307511759109616,
+        "lon": 6.782294213992452,
+        "dist_km": 1.76268,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 45.28926041758516,
+        "lon": 6.755857848135449,
+        "dist_km": 1.763022,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 45.31504480446835,
+        "lon": 6.742871569232036,
+        "dist_km": 1.763436,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 45.28922398759343,
+        "lon": 6.756003053300871,
+        "dist_km": 1.764877,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 45.289272513787495,
+        "lon": 6.755631982800862,
+        "dist_km": 1.765146,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 45.31509853022743,
+        "lon": 6.742882368194617,
+        "dist_km": 1.766626,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 45.2892406307677,
+        "lon": 6.755507712543123,
+        "dist_km": 1.77058,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 45.28915422995043,
+        "lon": 6.756066991705632,
+        "dist_km": 1.771589,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 45.31513249016511,
+        "lon": 6.742810387483941,
+        "dist_km": 1.773369,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 45.30741120442474,
+        "lon": 6.782468630141635,
+        "dist_km": 1.774331,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      }
+    ]
+  },
+  {
+    "zone_id": 28,
+    "rank_in_zone": 1,
+    "lat": 42.72433143361474,
+    "lon": 1.36902999404111,
+    "dist_km": 1.708307,
+    "x_l93": 566266.6,
+    "y_l93": 6181909,
+    "infras": [
+      {
+        "lat": 42.709595715351334,
+        "lon": 1.374906582527734,
+        "dist_km": 1.708307,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 42.71980400878204,
+        "lon": 1.3491179828843929,
+        "dist_km": 1.708765,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 42.71988886593463,
+        "lon": 1.34908051137156,
+        "dist_km": 1.708948,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 42.7396963506588,
+        "lon": 1.3687366399293224,
+        "dist_km": 1.709037,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 42.71995586212907,
+        "lon": 1.3490511691376057,
+        "dist_km": 1.709114,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 42.71984414306265,
+        "lon": 1.3490962630695436,
+        "dist_km": 1.709158,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 42.71991551638437,
+        "lon": 1.3490591738948043,
+        "dist_km": 1.709769,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 42.71976798142803,
+        "lon": 1.3491144308681915,
+        "dist_km": 1.710229,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 42.709578569584934,
+        "lon": 1.3749619354736513,
+        "dist_km": 1.711421,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 42.709559261317565,
+        "lon": 1.3748748277896499,
+        "dist_km": 1.711466,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      }
+    ]
+  },
+  {
+    "zone_id": 29,
+    "rank_in_zone": 1,
+    "lat": 43.193761,
+    "lon": 5.371462,
+    "dist_km": 1.564964,
+    "x_l93": 892872.9,
+    "y_l93": 6235600.5,
+    "infras": [
+      {"lat": 43.207674246468805, "lon": 5.368551671653291, "dist_km": 1.564964, "osm_tag": "building", "osm_val": "ruins"},
+      {"lat": 43.20768619855334,  "lon": 5.368622131945476, "dist_km": 1.565428, "osm_tag": "building", "osm_val": "ruins"},
+      {"lat": 43.20767606740497,  "lon": 5.368468705011009, "dist_km": 1.566190, "osm_tag": "building", "osm_val": "ruins"},
+      {"lat": 43.20770709096738,  "lon": 5.368695265720094, "dist_km": 1.566867, "osm_tag": "building", "osm_val": "ruins"},
+      {"lat": 43.20769120612336,  "lon": 5.368393973625511, "dist_km": 1.568800, "osm_tag": "building", "osm_val": "ruins"},
+      {"lat": 43.207737294676896, "lon": 5.368754172385183, "dist_km": 1.569516, "osm_tag": "building", "osm_val": "ruins"},
+      {"lat": 43.207727332327146, "lon": 5.368593063188647, "dist_km": 1.570300, "osm_tag": "barrier",  "osm_val": "city_wall"},
+      {"lat": 43.20772408455359,  "lon": 5.368536031224216, "dist_km": 1.570634, "osm_tag": "barrier",  "osm_val": "city_wall"},
+      {"lat": 43.20773968906231,  "lon": 5.3686450865030135,"dist_km": 1.571040, "osm_tag": "barrier",  "osm_val": "city_wall"},
+      {"lat": 43.20772970968939,  "lon": 5.368484745528999, "dist_km": 1.571885, "osm_tag": "barrier",  "osm_val": "city_wall"}
+    ]
+  },
+  {
+    "zone_id": 30,
+    "rank_in_zone": 1,
+    "lat": 45.15053617797636,
+    "lon": 5.987398809253099,
+    "dist_km": 1.682191,
+    "x_l93": 934716.6,
+    "y_l93": 6454578.5,
+    "infras": [
+      {
+        "lat": 45.139291301149925,
+        "lon": 5.973059715204373,
+        "dist_km": 1.682191,
+        "osm_tag": "waterway",
+        "osm_val": "canal"
+      },
+      {
+        "lat": 45.14702099914871,
+        "lon": 6.008222660899932,
+        "dist_km": 1.682469,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 45.165379371662894,
+        "lon": 5.983084618982669,
+        "dist_km": 1.682986,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 45.1395227804499,
+        "lon": 5.972657477078395,
+        "dist_km": 1.684775,
+        "osm_tag": "waterway",
+        "osm_val": "canal"
+      },
+      {
+        "lat": 45.16534447868386,
+        "lon": 5.982704621839284,
+        "dist_km": 1.685472,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 45.14698847887194,
+        "lon": 6.008259108545955,
+        "dist_km": 1.686096,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 45.16559614015911,
+        "lon": 5.984076166526352,
+        "dist_km": 1.69282,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 45.16557439864675,
+        "lon": 5.98387837451922,
+        "dist_km": 1.692904,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 45.162722109598505,
+        "lon": 5.974447418074761,
+        "dist_km": 1.693326,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 45.16533912744578,
+        "lon": 5.9822306749328416,
+        "dist_km": 1.693435,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      }
+    ]
+  },
+  {
+    "zone_id": 31,
+    "rank_in_zone": 1,
+    "lat": 42.627536352844686,
+    "lon": 9.155592183227295,
+    "dist_km": 1.66941,
+    "x_l93": 1205098.5,
+    "y_l93": 6189459.5,
+    "infras": [
+      {
+        "lat": 42.635856699818824,
+        "lon": 9.17250877704881,
+        "dist_km": 1.66941,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 42.623832865527135,
+        "lon": 9.135893705218356,
+        "dist_km": 1.669667,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 42.61264245230783,
+        "lon": 9.153032780076142,
+        "dist_km": 1.669947,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 42.63586900346362,
+        "lon": 9.172529929420428,
+        "dist_km": 1.671615,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 42.61261845021496,
+        "lon": 9.152979882704711,
+        "dist_km": 1.673148,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 42.63584818138829,
+        "lon": 9.172578101601873,
+        "dist_km": 1.673628,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 42.623910329035915,
+        "lon": 9.135801134556107,
+        "dist_km": 1.67494,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 42.61256593702816,
+        "lon": 9.153108625009159,
+        "dist_km": 1.677622,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 42.62377070109714,
+        "lon": 9.135798623861287,
+        "dist_km": 1.678949,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 42.61253719104337,
+        "lon": 9.153059804374037,
+        "dist_km": 1.681287,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      }
+    ]
+  },
+  {
+    "zone_id": 33,
+    "rank_in_zone": 1,
+    "lat": 41.66503143306881,
+    "lon": 9.261810534704466,
+    "dist_km": 1.647921,
+    "x_l93": 1222281.5,
+    "y_l93": 6083367.5,
+    "infras": [
+      {
+        "lat": 41.66284595556988,
+        "lon": 9.242290497402358,
+        "dist_km": 1.647921,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 41.67796855258457,
+        "lon": 9.27140766242206,
+        "dist_km": 1.648345,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 41.6542843840297,
+        "lon": 9.275387014908164,
+        "dist_km": 1.648403,
+        "osm_tag": "landuse",
+        "osm_val": "residential"
+      },
+      {
+        "lat": 41.67804943686913,
+        "lon": 9.271260024480922,
+        "dist_km": 1.650293,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 41.654312885442394,
+        "lon": 9.27551316988527,
+        "dist_km": 1.653373,
+        "osm_tag": "landuse",
+        "osm_val": "residential"
+      },
+      {
+        "lat": 41.67806487133768,
+        "lon": 9.271378831639955,
+        "dist_km": 1.656563,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      },
+      {
+        "lat": 41.65427782890217,
+        "lon": 9.275647591126045,
+        "dist_km": 1.663968,
+        "osm_tag": "landuse",
+        "osm_val": "residential"
+      },
+      {
+        "lat": 41.65416863790814,
+        "lon": 9.275741104987084,
+        "dist_km": 1.678143,
+        "osm_tag": "landuse",
+        "osm_val": "residential"
+      },
+      {
+        "lat": 41.65355724937003,
+        "lon": 9.274890869631662,
+        "dist_km": 1.680883,
+        "osm_tag": "landuse",
+        "osm_val": "residential"
+      },
+      {
+        "lat": 41.66245606931607,
+        "lon": 9.241953469965516,
+        "dist_km": 1.682616,
+        "osm_tag": "man_made",
+        "osm_val": "survey_point"
+      }
+    ]
+  },
+  {
+    "zone_id": 34,
+    "rank_in_zone": 1,
+    "lat": 44.95017954212697,
+    "lon": 6.333835018222169,
+    "dist_km": 1.76657,
+    "x_l93": 962859.6,
+    "y_l93": 6433435.5,
+    "infras": [
+      {
+        "lat": 44.96601979349774,
+        "lon": 6.3358629889322655,
+        "dist_km": 1.76657,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 44.93684894882229,
+        "lon": 6.3460555695682555,
+        "dist_km": 1.766725,
+        "osm_tag": "man_made",
+        "osm_val": "monitoring_station"
+      },
+      {
+        "lat": 44.935616554891176,
+        "lon": 6.324819743834355,
+        "dist_km": 1.766885,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 44.93679109787358,
+        "lon": 6.346031498844539,
+        "dist_km": 1.771081,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 44.93669810676181,
+        "lon": 6.345827705180172,
+        "dist_km": 1.771125,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 44.96606380308883,
+        "lon": 6.336048087147704,
+        "dist_km": 1.772816,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 44.936582912550904,
+        "lon": 6.345613071335252,
+        "dist_km": 1.773025,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 44.93523201415643,
+        "lon": 6.325925289328359,
+        "dist_km": 1.773541,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 44.936844276380235,
+        "lon": 6.346210713202584,
+        "dist_km": 1.773865,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 44.93468435852226,
+        "lon": 6.328113801617423,
+        "dist_km": 1.779186,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      }
+    ]
+  },
+  {
+    "zone_id": 35,
+    "rank_in_zone": 1,
+    "lat": 42.55182229522778,
+    "lon": 1.9568749906017169,
+    "dist_km": 1.635723,
+    "x_l93": 614210.6,
+    "y_l93": 6161906.5,
+    "infras": [
+      {
+        "lat": 42.54213618771166,
+        "lon": 1.9419122801829745,
+        "dist_km": 1.635723,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 42.56091492388798,
+        "lon": 1.9725075368442428,
+        "dist_km": 1.635782,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 42.54174089663255,
+        "lon": 1.942395116611557,
+        "dist_km": 1.635883,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 42.56116410180864,
+        "lon": 1.972241672630623,
+        "dist_km": 1.636115,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 42.54188285900711,
+        "lon": 1.9422048590234349,
+        "dist_km": 1.636601,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 42.542002680208455,
+        "lon": 1.9420484357441616,
+        "dist_km": 1.637186,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 42.56061254200349,
+        "lon": 1.9728503453757873,
+        "dist_km": 1.637731,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 42.54224680885191,
+        "lon": 1.9417347460674435,
+        "dist_km": 1.638712,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 42.56075535803129,
+        "lon": 1.972742937755617,
+        "dist_km": 1.640228,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      },
+      {
+        "lat": 42.5604170485086,
+        "lon": 1.97308941659759,
+        "dist_km": 1.640781,
+        "osm_tag": "highway",
+        "osm_val": "path"
+      }
+    ]
+  }
+]

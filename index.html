@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Endroits les plus isolés de France</title>
+  <meta name="description"
+    content="Cartographie des points les plus éloignés de toute infrastructure en France métropolitaine.">
+
+  <!-- Leaflet -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<!-- GoatCounter -->
+<script data-goatcounter="https://data-summit.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+
+<body>
+
+  <!-- ══ Navigation ══════════════════════════════════════════════ -->
+  <nav id="nav">
+    <a class="brand" href="#carte"></a>
+    <ul id="nav-links">
+
+      <!-- Dropdown Cartes -->
+      <li><a href="#accueil" data-page="accueil">Accueil</a></li>
+      <li><a href="#carte" data-page="carte" data-dataset="infrastructures" class="active-map">Top 30 toute infra</a>
+      </li>
+      <li><a href="#carte" data-page="carte" data-dataset="batiments" class="active-map">Top 30 bâtiments</a></li>
+      <li><a href="#apropos" data-page="apropos">À propos</a></li>
+    </ul>
+  </nav>
+
+  <!-- ══ Page : Carte ════════════════════════════════════════════ -->
+  <div id="page-carte" class="page">
+    <div id="map-layout">
+      <button id="sidebar-toggle-floating" onclick="toggleSidebar()">▶ Panneau</button>
+      <div id="sidebar">
+        <div id="sidebar-header">
+          <span id="sidebar-title">Top métropolitain</span>
+          <span id="best-dist"></span>
+          <button id="sidebar-toggle" title="Masquer le panneau" onclick="toggleSidebar()">◀</button>
+        </div>
+        <div id="zone-list"></div>
+        <div id="info-panel">
+          <div class="info-title" id="info-zone-title"></div>
+          <div id="infra-rows"></div>
+          <a class="osm-btn" id="osm-link" href="#" target="_blank">↗ Ouvrir dans OSM</a>
+        </div>
+      </div>
+      <div id="map"></div>
+    </div>
+  </div>
+
+  <!-- ══ Page : Accueil ═══════════════════════════════════════ -->
+  <div id="page-accueil" class="page">
+    <div class="content-page">
+      <h1>Accueil</h1>
+      <p>
+        Sur ce micro site, je propose de trouver le point de France métropolitaine le plus éloigné d'infrastructures.
+        J'ai travaillé sur deux cartes. La première recense le top 30 des points les plus éloignés de toute trace
+        humaine recensée : qu'il s'agisse d'un chemin, d'une croix
+        sur un sommet ou même d'une borne géodésique. La seconde est plus permissive, c'est un top 30 des points les
+        plus éloignés de tout bâtiment, quel qu'en soit sa taille ou son type (cabane, refuge...). Tant que ce n'est pas
+        une ruine, ça compte !
+      </p>
+      <p>
+        La méthode repose sur les données d'OpenStreetMap (merci à eux),
+        et sur un fond de carte de la France métropolitaine (j'ai choisi celui
+        de l'ADEME, car il exclut l'estuaire de la Gironde). J'ai par la suite écrit un script permettant
+        l'extraction et le traitement de ces données.
+        Dernière mise à jour en mai 2026.
+        Ci-dessous, la méthodologie utilisée.
+      </p>
+
+      <h2>Intro</h2>
+      <p>
+        Trouver "l'endroit le plus isolé de France" est en fait un sujet compliqué et je n'en ai pas trouvé la réponse
+        sur internet.
+        Il faut en effet distinguer le village le plus isolé (le plus loin d'une route),
+        le point le plus éloigné de toute habitation, le point le plus éloigné de toute
+        structure, etc.
+        Tout dépend de la définition de l'objet recherché (un point, une vallée, une zone ?) et
+        des éléments que l'on souhaite éviter (routes carrossables, habitations, etc.).
+        Je vous propose ici la méthodologie que j'ai appliqué pour trouver le point le plus éloigné
+        de toute infrastructure artificielle. La méthodologie pour les bâtiments et la seconde carte
+        est analogue.
+      </p>
+
+      <h2>Étape 1 — Préparation du terrain et zones de « silence »</h2>
+      <p>
+        La première étape consiste à effectuer un agrandissement artificiel de la France.
+        On ajoute 10 km aux frontières car, si l'on ne compte pas les infrastructures des pays
+        limitrophes, on risque de générer de « faux » points isolés à la frontière suisse, par exemple,
+        simplement parce que le chemin le plus proche est de l'autre côté de la ligne de démarcation.
+      </p>
+
+      <img src="assets/images/image_1.png" alt="description"
+        style="display:block; margin:0 auto; width:600px; max-width:100%;">
+      <p>
+        Ensuite, on cherche des zones candidates, dites « de silence », à partir
+        des bâtiments. On extrait donc des données OSM tous les bâtiments de France métropolitaine (près de 50 millions,
+        tout de même !), et on fonctionne par contamination. Je prends un bâtiment au hasard, qui va contaminer
+        tous les autres bâtiments dans un rayon de 2km autour de lui. On répète jusqu'à ce que tous les bâtiments
+        soient contaminés. On regarde les zones non-contaminées par ces cercles. Par effet de bord, certains points de
+        ces zones
+        peuvent quand même être à moins de 2km d'un batiment. Mais ce dont on est sûr, c'est que s'il existe un point à
+        plus de
+        2km d'un batiment, alors il sera dans ces zones ! De même, si un point est à plus de 2km d'une infrastructure,
+        alors
+        il est à plus de 2km d'un batiment, donc ce point se situe aussi dans ces zones... Avant, on avait des millions
+        de km² à
+        analyser. Après cette opération, il n'en reste que quelques milliers !
+        Attention, en fin de calcul, il faudra disqualifier toutes les distances inférieures à 2km.
+      </p>
+      <img src="assets/images/image_2.png" alt="description"
+        style="display:block; margin:0 auto; width:600px; max-width:100%;">
+
+      <h2>Étape 2 — Extraction massive des données</h2>
+      <p>
+        Une fois ces zones identifiées, on les agrandit encore de 2 km pour éviter les effets de bord,
+        puis on extrait toutes les données d'infrastructure d'OpenStreetMap dans ces périmètres.
+        On récupère les infrastructures ponctuelles et on « mappe » toutes les infrastructures
+        linéaires (routes, chemins) par une série de points.
+      </p>
+      <p>
+        Cette approche permet de limiter considérablement le volume de données à
+        traiter : puisque nous sommes dans des zones de silence, il y a logiquement peu
+        d'infrastructures. Malgré tout, on récupère plusieurs dizaines de millions de points.
+      </p>
+      <h2>Étape 3 — Maillage et calcul spatial</h2>
+      <p>
+        On procède alors à la construction d'une maille grossière en quadrillant
+        nos zones de silence avec un point tous les 50 m. Nous avons alors deux bases de données :
+        les points « candidats » et les points « infrastructures ».
+      </p>
+      <p>
+        À l'aide d'un algorithme de type KD-Tree, on calcule pour chaque candidat
+        l'infrastructure la plus proche. Grâce à notre présélection, le calcul s'exécute en quelques
+        dizaines de secondes sur un ordinateur classique. On obtient alors, pour chaque point du maillage, sa
+        distance à la trace humaine la plus proche. Logiquement, les meilleurs résultats se
+        regroupent par zones géographiques : si un point est à 10 km d'une route, son voisin à
+        50m le sera presque tout autant.
+      </p>
+
+      <h2>Affinage et résultats finaux</h2>
+      <p>
+        Le fond de carte national peut montrer ses limites (imprécisions sur les côtes ou les îles). Pour pallier cela,
+        je sélectionne les
+        15 zones les plus prometteuses pour une vérification manuelle. Un module
+        dédié affiche la carte OSM et permet de valider visuellement que le point est bien sur
+        la terre ferme.
+      </p>
+      <img src="assets/images/image_3.JPG" alt="description"
+        style="display:block; margin:0 auto; width:600px; max-width:100%;">
+
+      <p>
+        Une fois la zone validée, on augmente la précision du maillage à 1 mètre
+        pour obtenir la coordonnée exacte.
+
+        Une fois le point choisi, on disqualifie tous les autres points de la zone.
+        Cela évite que le top soit tout au même endroit ! C'est un choix arbitraire.
+
+        Nous obtenons ainsi la liste des 15 points les plus
+        isolés de France métropolitaine. Cette méthode m'a également permis de décliner des
+        classements des points les plus isolés des bâtiments. Voir la page correspondante.
+      </p>
+      <img src="assets/images/image_4.JPG" alt="description"
+        style="display:block; margin:0 auto; width:600px; max-width:100%;">
+
+      <p>
+        Certains résultats sont surprenants, d'autres moins, mais l'ensemble produit des cartes
+        intéressantes. Cela souligne surtout l'omniprésence humaine dans notre pays.
+      </p>
+    </div>
+
+    <footer id="footer">
+      <span>Données 05/2026</span>
+    </footer>
+  </div>
+
+  <!-- ══ Page : À propos ═════════════════════════════════════════ -->
+  <div id="page-apropos" class="page">
+    <div class="content-page">
+      <h1>À propos</h1>
+      <p>
+        Ces lieux sont évidemment fragiles. Merci de ne pas vous y rendre.
+      </p>
+
+      <p>
+        Algorithme et site web imaginé et mis en place par <a href="https://github.com/data-summit"
+          target="_blank">Jean</a>.
+        Si cela intéresse, je publierai aussi le code du calcul.
+
+        Les cartes sont générées à partir des données
+        <a href="https://www.openstreetmap.org" target="_blank">OpenStreetMap</a>.
+        La visualisation utilise
+        <a href="https://leafletjs.com" target="_blank">Leaflet.js</a>.
+        Le fond de carte est celui de l'
+        <a href="https://www.ademe.fr/" target="_blank">ADEME</a> pour la métropole.
+        Le site utilise
+        <a href="https://www.goatcounter.com/" target="_blank">GoatCounter</a> pour compter les visites.
+        Le site est hébergé sur GitHub.
+      </p>
+    </div>
+  </div>
+
+  <!-- ══ Scripts ═════════════════════════════════════════════════ -->
+  <script src="assets/js/main.js"></script>
+</body>
+
+</html>

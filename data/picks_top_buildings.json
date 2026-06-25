@@ -1,0 +1,2432 @@
+[
+  {
+    "zone_id": 1,
+    "rank_in_zone": 1,
+    "lat": 41.507351, 
+    "lon": 9.381426,
+    "dist_km": 6.901352,
+    "x_l93": 1233684,
+    "y_l93": 6066627.5,
+    "infras": [
+      {
+        "lat": 41.55943344668759,
+        "lon": 9.337786801791456,
+        "dist_km": 6.901352,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 41.55945780340911,
+        "lon": 9.337756426508586,
+        "dist_km": 6.905002,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 41.55950977347564,
+        "lon": 9.337865441052388,
+        "dist_km": 6.905043,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 41.559534130222275,
+        "lon": 9.33783506576272,
+        "dist_km": 6.908692,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 41.55953254187815,
+        "lon": 9.337488566414144,
+        "dist_km": 6.924007,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 41.559548487723134,
+        "lon": 9.33744829470715,
+        "dist_km": 6.927309,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 41.559619259506924,
+        "lon": 9.337544329935266,
+        "dist_km": 6.929675,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 41.559635385357474,
+        "lon": 9.337501078931966,
+        "dist_km": 6.933125,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 41.56023072454592,
+        "lon": 9.33830847540324,
+        "dist_km": 6.953707,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 41.56021570314821,
+        "lon": 9.338258889646365,
+        "dist_km": 6.954452,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      }
+    ]
+  },
+  {
+    "zone_id": 2,
+    "rank_in_zone": 1,
+    "lat": 43.50299075286924,
+    "lon": 4.581739388729031,
+    "dist_km": 5.383639,
+    "x_l93": 827963.1,
+    "y_l93": 6268382.5,
+    "infras": [
+      {
+        "lat": 43.4787385465435,
+        "lon": 4.639327413934164,
+        "dist_km": 5.383639,
+        "osm_tag": "building",
+        "osm_val": "shed"
+      },
+      {
+        "lat": 43.47869388707055,
+        "lon": 4.6393052872231015,
+        "dist_km": 5.384578,
+        "osm_tag": "building",
+        "osm_val": "shed"
+      },
+      {
+        "lat": 43.47871952943465,
+        "lon": 4.63939483804197,
+        "dist_km": 5.389421,
+        "osm_tag": "building",
+        "osm_val": "shed"
+      },
+      {
+        "lat": 43.47867486997607,
+        "lon": 4.639372711285859,
+        "dist_km": 5.390359,
+        "osm_tag": "building",
+        "osm_val": "shed"
+      },
+      {
+        "lat": 43.45506357495855,
+        "lon": 4.570307978211863,
+        "dist_km": 5.40685,
+        "osm_tag": "building",
+        "osm_val": "hut"
+      },
+      {
+        "lat": 43.455049512295304,
+        "lon": 4.5703469669562775,
+        "dist_km": 5.407852,
+        "osm_tag": "building",
+        "osm_val": "hut"
+      },
+      {
+        "lat": 43.45505996081154,
+        "lon": 4.570246890466503,
+        "dist_km": 5.408094,
+        "osm_tag": "building",
+        "osm_val": "hut"
+      },
+      {
+        "lat": 43.455050071376405,
+        "lon": 4.57030838154878,
+        "dist_km": 5.408324,
+        "osm_tag": "building",
+        "osm_val": "hut"
+      },
+      {
+        "lat": 43.455040014177015,
+        "lon": 4.570381448230073,
+        "dist_km": 5.408417,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 43.455040517361695,
+        "lon": 4.570346721369395,
+        "dist_km": 5.40884,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      }
+    ]
+  },
+  {
+    "zone_id": 3,
+    "rank_in_zone": 1,
+    "lat": 44.90212366092963,
+    "lon": 6.143735339454381,
+    "dist_km": 4.915072,
+    "x_l93": 948091.6,
+    "y_l93": 6427487.5,
+    "infras": [
+      {
+        "lat": 44.865033284592336,
+        "lon": 6.1776860618811895,
+        "dist_km": 4.915072,
+        "osm_tag": "building",
+        "osm_val": "hut"
+      },
+      {
+        "lat": 44.9100136662528,
+        "lon": 6.08245554330799,
+        "dist_km": 4.915649,
+        "osm_tag": "building",
+        "osm_val": "cabin"
+      },
+      {
+        "lat": 44.91003758534877,
+        "lon": 6.082405346393027,
+        "dist_km": 4.920021,
+        "osm_tag": "building",
+        "osm_val": "cabin"
+      },
+      {
+        "lat": 44.909939171221154,
+        "lon": 6.082380125312655,
+        "dist_km": 4.920043,
+        "osm_tag": "building",
+        "osm_val": "cabin"
+      },
+      {
+        "lat": 44.86502554910026,
+        "lon": 6.177798863944068,
+        "dist_km": 4.920655,
+        "osm_tag": "building",
+        "osm_val": "hut"
+      },
+      {
+        "lat": 44.90996306832212,
+        "lon": 6.082330719709764,
+        "dist_km": 4.92435,
+        "osm_tag": "building",
+        "osm_val": "cabin"
+      },
+      {
+        "lat": 44.89865142107651,
+        "lon": 6.205928911092328,
+        "dist_km": 4.924652,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 44.89870528322116,
+        "lon": 6.205935951458543,
+        "dist_km": 4.924739,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 44.864866924795095,
+        "lon": 6.177674267361385,
+        "dist_km": 4.930065,
+        "osm_tag": "building",
+        "osm_val": "hut"
+      },
+      {
+        "lat": 44.898693614789714,
+        "lon": 6.206027992402282,
+        "dist_km": 4.932084,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      }
+    ]
+  },
+  {
+    "zone_id": 4,
+    "rank_in_zone": 1,
+    "lat": 42.3937126492276,
+    "lon": 8.866391353925192,
+    "dist_km": 4.574535,
+    "x_l93": 1183343.5,
+    "y_l93": 6161713.5,
+    "infras": [
+      {
+        "lat": 42.375928850497964,
+        "lon": 8.816385305323623,
+        "dist_km": 4.574535,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 42.40197624476227,
+        "lon": 8.920739527897418,
+        "dist_km": 4.574986,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 42.4261885922485,
+        "lon": 8.900436756230372,
+        "dist_km": 4.575246,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 42.3759667725612,
+        "lon": 8.816351094440494,
+        "dist_km": 4.575256,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 42.401928988403085,
+        "lon": 8.920778824591,
+        "dist_km": 4.57711,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 42.426260264150244,
+        "lon": 8.900363394708968,
+        "dist_km": 4.577841,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 42.37590061934175,
+        "lon": 8.816324758334517,
+        "dist_km": 4.580397,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 42.375938541384414,
+        "lon": 8.816290547428666,
+        "dist_km": 4.581117,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 42.40202869741104,
+        "lon": 8.920849740374827,
+        "dist_km": 4.585062,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 42.42605062846469,
+        "lon": 8.900892749953771,
+        "dist_km": 4.586358,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      }
+    ]
+  },
+  {
+    "zone_id": 5,
+    "rank_in_zone": 1,
+    "lat": 45.494425452476676,
+    "lon": 7.048758770283521,
+    "dist_km": 4.540699,
+    "x_l93": 1016085.6,
+    "y_l93": 6496434.5,
+    "infras": [
+      {
+        "lat": 45.45453711347294,
+        "lon": 7.035990535167523,
+        "dist_km": 4.540699,
+        "osm_tag": "building",
+        "osm_val": "detached"
+      },
+      {
+        "lat": 45.454525532813506,
+        "lon": 7.0360617551859495,
+        "dist_km": 4.540735,
+        "osm_tag": "building",
+        "osm_val": "detached"
+      },
+      {
+        "lat": 45.45454543401839,
+        "lon": 7.035884648629925,
+        "dist_km": 4.541623,
+        "osm_tag": "building",
+        "osm_val": "detached"
+      },
+      {
+        "lat": 45.45455136805818,
+        "lon": 7.035845045608581,
+        "dist_km": 4.541667,
+        "osm_tag": "building",
+        "osm_val": "detached"
+      },
+      {
+        "lat": 45.45451474635162,
+        "lon": 7.035985706620017,
+        "dist_km": 4.543205,
+        "osm_tag": "building",
+        "osm_val": "detached"
+      },
+      {
+        "lat": 45.45452756331959,
+        "lon": 7.03588014694787,
+        "dist_km": 4.543636,
+        "osm_tag": "building",
+        "osm_val": "detached"
+      },
+      {
+        "lat": 45.454466360426125,
+        "lon": 7.036077471182915,
+        "dist_km": 4.54688,
+        "osm_tag": "building",
+        "osm_val": "detached"
+      },
+      {
+        "lat": 45.45446742431159,
+        "lon": 7.036047923145619,
+        "dist_km": 4.547268,
+        "osm_tag": "building",
+        "osm_val": "detached"
+      },
+      {
+        "lat": 45.4544748823245,
+        "lon": 7.035965994622789,
+        "dist_km": 4.547863,
+        "osm_tag": "building",
+        "osm_val": "detached"
+      },
+      {
+        "lat": 45.45448876310215,
+        "lon": 7.035830886969019,
+        "dist_km": 4.548691,
+        "osm_tag": "building",
+        "osm_val": "detached"
+      }
+    ]
+  },
+  {
+    "zone_id": 6,
+    "rank_in_zone": 1,
+    "lat": 41.88572738741831,
+    "lon": 9.222141063143667,
+    "dist_km": 4.349708,
+    "x_l93": 1217045.5,
+    "y_l93": 6107600.5,
+    "infras": [
+      {
+        "lat": 41.88019048508104,
+        "lon": 9.17038076612802,
+        "dist_km": 4.349708,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 41.905963040320124,
+        "lon": 9.266882025265394,
+        "dist_km": 4.349776,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 41.905867523724105,
+        "lon": 9.266972889139737,
+        "dist_km": 4.350757,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 41.85970872752843,
+        "lon": 9.261161147840605,
+        "dist_km": 4.350776,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 41.90601641521103,
+        "lon": 9.26689373973486,
+        "dist_km": 4.353687,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 41.905954734503595,
+        "lon": 9.266945983239472,
+        "dist_km": 4.35385,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 41.90584587413705,
+        "lon": 9.267033918353533,
+        "dist_km": 4.353868,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 41.85964236753433,
+        "lon": 9.261140533466667,
+        "dist_km": 4.354421,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 41.88013033682347,
+        "lon": 9.17033075648434,
+        "dist_km": 4.354782,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 41.88022647605744,
+        "lon": 9.170304657867254,
+        "dist_km": 4.355409,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      }
+    ]
+  },
+  {
+    "zone_id": 7,
+    "rank_in_zone": 1,
+    "lat": 48.63535603222083,
+    "lon": 4.31193215003465,
+    "dist_km": 4.329611,
+    "x_l93": 796665.6,
+    "y_l93": 6838044.5,
+    "infras": [
+      {
+        "lat": 48.60271541375762,
+        "lon": 4.343973994107607,
+        "dist_km": 4.329611,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 48.66939395081145,
+        "lon": 4.340512813147679,
+        "dist_km": 4.330384,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 48.651344434672076,
+        "lon": 4.258332414800997,
+        "dist_km": 4.330518,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 48.603808075648615,
+        "lon": 4.346398809120766,
+        "dist_km": 4.330675,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 48.603825238976704,
+        "lon": 4.346472162492793,
+        "dist_km": 4.332305,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 48.66943506040001,
+        "lon": 4.340456992165948,
+        "dist_km": 4.332383,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 48.602740940904155,
+        "lon": 4.3441035143701585,
+        "dist_km": 4.332451,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 48.60378538970382,
+        "lon": 4.346416029903823,
+        "dist_km": 4.333463,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 48.60267921819985,
+        "lon": 4.343992564428324,
+        "dist_km": 4.333731,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 48.60380258178046,
+        "lon": 4.346486840546326,
+        "dist_km": 4.334979,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      }
+    ]
+  },
+  {
+    "zone_id": 8,
+    "rank_in_zone": 1,
+    "lat": 45.15591057992929,
+    "lon": -0.9909732178643078,
+    "dist_km": 4.235851,
+    "x_l93": 386522.5,
+    "y_l93": 6458658.5,
+    "infras": [
+      {
+        "lat": 45.120812922236944,
+        "lon": -1.0120631830190912,
+        "dist_km": 4.235851,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 45.19403952079035,
+        "lon": -0.992437165667018,
+        "dist_km": 4.23616,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 45.14176089245923,
+        "lon": -0.9409150257753786,
+        "dist_km": 4.236328,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 45.19403901576445,
+        "lon": -0.9928292184149042,
+        "dist_km": 4.237052,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 45.19407547467138,
+        "lon": -0.992314222543553,
+        "dist_km": 4.239901,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 45.141887082789765,
+        "lon": -0.9407881871290137,
+        "dist_km": 4.240415,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 45.194078241064055,
+        "lon": -0.9926148628036141,
+        "dist_km": 4.24086,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 45.120787325852014,
+        "lon": -1.0121480969491703,
+        "dist_km": 4.241083,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 45.12072905199268,
+        "lon": -1.0120137825292452,
+        "dist_km": 4.24291,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 45.14171481466557,
+        "lon": -0.9408158368272194,
+        "dist_km": 4.245467,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      }
+    ]
+  },
+  {
+    "zone_id": 9,
+    "rank_in_zone": 1,
+    "lat": 41.7551875333243,
+    "lon": 9.252018287378188,
+    "dist_km": 4.195957,
+    "x_l93": 1220672.5,
+    "y_l93": 6093309.5,
+    "infras": [
+      {
+        "lat": 41.76582070978963,
+        "lon": 9.203728034064614,
+        "dist_km": 4.195957,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 41.73244996235381,
+        "lon": 9.292155636244429,
+        "dist_km": 4.196405,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 41.77199447270568,
+        "lon": 9.297087218531939,
+        "dist_km": 4.196981,
+        "osm_tag": "building",
+        "osm_val": "ruins"
+      },
+      {
+        "lat": 41.7722618104516,
+        "lon": 9.296911133672825,
+        "dist_km": 4.197236,
+        "osm_tag": "building",
+        "osm_val": "ruins"
+      },
+      {
+        "lat": 41.76579973408587,
+        "lon": 9.203701759699735,
+        "dist_km": 4.197401,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 41.73233821944466,
+        "lon": 9.292065538064664,
+        "dist_km": 4.197946,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 41.73242436240182,
+        "lon": 9.292207035812472,
+        "dist_km": 4.201544,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 41.77224874273708,
+        "lon": 9.296978949997527,
+        "dist_km": 4.201619,
+        "osm_tag": "building",
+        "osm_val": "ruins"
+      },
+      {
+        "lat": 41.772074874999454,
+        "lon": 9.297098811159012,
+        "dist_km": 4.201841,
+        "osm_tag": "building",
+        "osm_val": "ruins"
+      },
+      {
+        "lat": 41.77232833538784,
+        "lon": 9.296928767629286,
+        "dist_km": 4.201903,
+        "osm_tag": "building",
+        "osm_val": "ruins"
+      }
+    ]
+  },
+  {
+    "zone_id": 10,
+    "rank_in_zone": 1,
+    "lat": 45.331060654511404,
+    "lon": 7.117328734907318,
+    "dist_km": 4.198572,
+    "x_l93": 1022379.6,
+    "y_l93": 6478593.5,
+    "infras": [
+      {
+        "lat": 45.36829062545985,
+        "lon": 7.108005837220001,
+        "dist_km": 4.198572,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 45.2977866890047,
+        "lon": 7.1427759835296545,
+        "dist_km": 4.198948,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 45.305029785209015,
+        "lon": 7.07845691580049,
+        "dist_km": 4.199229,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 45.305006374504394,
+        "lon": 7.078480754701026,
+        "dist_km": 4.199665,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 45.368303645675944,
+        "lon": 7.108019590800832,
+        "dist_km": 4.199809,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 45.368300173808684,
+        "lon": 7.1079913523931735,
+        "dist_km": 4.199814,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 45.36830869787243,
+        "lon": 7.108004773829273,
+        "dist_km": 4.200563,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 45.29778045176752,
+        "lon": 7.142822630379065,
+        "dist_km": 4.201294,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 45.30501705205785,
+        "lon": 7.07843522042809,
+        "dist_km": 4.201435,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 45.29771048303576,
+        "lon": 7.142642555056425,
+        "dist_km": 4.201453,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      }
+    ]
+  },
+  {
+    "zone_id": 11,
+    "rank_in_zone": 1,
+    "lat": 42.334933091071065,
+    "lon": 8.562350657291201,
+    "dist_km": 4.189001,
+    "x_l93": 1158795.9,
+    "y_l93": 6153377,
+    "infras": [
+      {
+        "lat": 42.37167223539139,
+        "lon": 8.57345058784835,
+        "dist_km": 4.189001,
+        "osm_tag": "building",
+        "osm_val": "historic"
+      },
+      {
+        "lat": 42.37167798600558,
+        "lon": 8.573426832880855,
+        "dist_km": 4.189197,
+        "osm_tag": "building",
+        "osm_val": "historic"
+      },
+      {
+        "lat": 42.37167088838525,
+        "lon": 8.573476281642439,
+        "dist_km": 4.189319,
+        "osm_tag": "building",
+        "osm_val": "historic"
+      },
+      {
+        "lat": 42.371678665543435,
+        "lon": 8.5734998075034,
+        "dist_km": 4.190589,
+        "osm_tag": "building",
+        "osm_val": "historic"
+      },
+      {
+        "lat": 42.37169678898873,
+        "lon": 8.57341191718973,
+        "dist_km": 4.19097,
+        "osm_tag": "building",
+        "osm_val": "historic"
+      },
+      {
+        "lat": 42.371691321727816,
+        "lon": 8.57351620380574,
+        "dist_km": 4.19226,
+        "osm_tag": "building",
+        "osm_val": "historic"
+      },
+      {
+        "lat": 42.371715037326624,
+        "lon": 8.573407581295077,
+        "dist_km": 4.192874,
+        "osm_tag": "building",
+        "osm_val": "historic"
+      },
+      {
+        "lat": 42.37170901541492,
+        "lon": 8.573522447747868,
+        "dist_km": 4.194293,
+        "osm_tag": "building",
+        "osm_val": "historic"
+      },
+      {
+        "lat": 42.37173273102052,
+        "lon": 8.57341382520691,
+        "dist_km": 4.194907,
+        "osm_tag": "building",
+        "osm_val": "historic"
+      },
+      {
+        "lat": 42.37172726375755,
+        "lon": 8.573518111886758,
+        "dist_km": 4.196195,
+        "osm_tag": "building",
+        "osm_val": "historic"
+      }
+    ]
+  },
+  {
+    "zone_id": 12,
+    "rank_in_zone": 1,
+    "lat": 44.903484655864155,
+    "lon": 6.144039839091925,
+    "dist_km": 4.914675,
+    "x_l93": 948109.6,
+    "y_l93": 6427639.5,
+    "infras": [
+      {
+        "lat": 44.9100136662528,
+        "lon": 6.08245554330799,
+        "dist_km": 4.914675,
+        "osm_tag": "building",
+        "osm_val": "cabin"
+      },
+      {
+        "lat": 44.89870528322116,
+        "lon": 6.205935951458543,
+        "dist_km": 4.914737,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 44.89865142107651,
+        "lon": 6.205928911092328,
+        "dist_km": 4.914837,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 44.91003758534877,
+        "lon": 6.082405346393027,
+        "dist_km": 4.918985,
+        "osm_tag": "building",
+        "osm_val": "cabin"
+      },
+      {
+        "lat": 44.909939171221154,
+        "lon": 6.082380125312655,
+        "dist_km": 4.919353,
+        "osm_tag": "building",
+        "osm_val": "cabin"
+      },
+      {
+        "lat": 44.898693614789714,
+        "lon": 6.206027992402282,
+        "dist_km": 4.922101,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 44.89864418215645,
+        "lon": 6.20602358224705,
+        "dist_km": 4.922354,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 44.90996306832212,
+        "lon": 6.082330719709764,
+        "dist_km": 4.923598,
+        "osm_tag": "building",
+        "osm_val": "cabin"
+      },
+      {
+        "lat": 44.93508620480886,
+        "lon": 6.187799647171979,
+        "dist_km": 4.923831,
+        "osm_tag": "building",
+        "osm_val": "ruins"
+      },
+      {
+        "lat": 44.93513282123504,
+        "lon": 6.187745210622539,
+        "dist_km": 4.924513,
+        "osm_tag": "building",
+        "osm_val": "ruins"
+      }
+    ]
+  },
+  {
+    "zone_id": 13,
+    "rank_in_zone": 1,
+    "lat": 49.21527548032775,
+    "lon": 4.964473715050563,
+    "dist_km": 3.97435,
+    "x_l93": 843133.6,
+    "y_l93": 6903510.5,
+    "infras": [
+      {
+        "lat": 49.194401400063775,
+        "lon": 4.920216864004668,
+        "dist_km": 3.97435,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 49.25100488563178,
+        "lon": 4.963568667797593,
+        "dist_km": 3.974916,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 49.21433372492572,
+        "lon": 5.019005434259854,
+        "dist_km": 3.975065,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 49.2510076048422,
+        "lon": 4.963677809117948,
+        "dist_km": 3.975094,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 49.193967107721654,
+        "lon": 4.920663855184999,
+        "dist_km": 3.976568,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 49.21434667419001,
+        "lon": 5.019037684810154,
+        "dist_km": 3.977376,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 49.21429720154595,
+        "lon": 5.019038327342573,
+        "dist_km": 3.977572,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 49.19445747097031,
+        "lon": 4.920084299074166,
+        "dist_km": 3.978561,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 49.21430565720668,
+        "lon": 5.019070402447847,
+        "dist_km": 3.979882,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 49.251088655609585,
+        "lon": 4.963670585988594,
+        "dist_km": 3.984117,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      }
+    ]
+  },
+  {
+    "zone_id": 14,
+    "rank_in_zone": 1,
+    "lat": 45.24433480443302,
+    "lon": 7.070462432106978,
+    "dist_km": 3.881497,
+    "x_l93": 1019209.6,
+    "y_l93": 6468784.5,
+    "infras": [
+      {
+        "lat": 45.235195145990964,
+        "lon": 7.11821065023154,
+        "dist_km": 3.881497,
+        "osm_tag": "building",
+        "osm_val": "ruins"
+      },
+      {
+        "lat": 45.2588149362538,
+        "lon": 7.025428160689861,
+        "dist_km": 3.881538,
+        "osm_tag": "building",
+        "osm_val": "ruins"
+      },
+      {
+        "lat": 45.25879463416395,
+        "lon": 7.025366055789413,
+        "dist_km": 3.88504,
+        "osm_tag": "building",
+        "osm_val": "ruins"
+      },
+      {
+        "lat": 45.25885637801216,
+        "lon": 7.025404026998323,
+        "dist_km": 3.885168,
+        "osm_tag": "building",
+        "osm_val": "ruins"
+      },
+      {
+        "lat": 45.23513890554921,
+        "lon": 7.1182687063993475,
+        "dist_km": 3.887532,
+        "osm_tag": "building",
+        "osm_val": "ruins"
+      },
+      {
+        "lat": 45.25883624796689,
+        "lon": 7.025337147262103,
+        "dist_km": 3.889016,
+        "osm_tag": "building",
+        "osm_val": "ruins"
+      },
+      {
+        "lat": 45.25867937056961,
+        "lon": 7.025186984767954,
+        "dist_km": 3.892583,
+        "osm_tag": "building",
+        "osm_val": "ruins"
+      },
+      {
+        "lat": 45.23530423833693,
+        "lon": 7.118430867364477,
+        "dist_km": 3.895036,
+        "osm_tag": "building",
+        "osm_val": "ruins"
+      },
+      {
+        "lat": 45.258716401994576,
+        "lon": 7.0251601387495315,
+        "dist_km": 3.896187,
+        "osm_tag": "building",
+        "osm_val": "ruins"
+      },
+      {
+        "lat": 45.258646410997294,
+        "lon": 7.025100827563766,
+        "dist_km": 3.897257,
+        "osm_tag": "building",
+        "osm_val": "ruins"
+      }
+    ]
+  },
+  {
+    "zone_id": 15,
+    "rank_in_zone": 1,
+    "lat": 46.03773262512071,
+    "lon": 6.862686963020914,
+    "dist_km": 3.874183,
+    "x_l93": 998620.6,
+    "y_l93": 6555969.5,
+    "infras": [
+      {
+        "lat": 46.00309372003172,
+        "lon": 6.868644962753217,
+        "dist_km": 3.874183,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 46.023465963017735,
+        "lon": 6.908394520836805,
+        "dist_km": 3.87423,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 46.00308952616461,
+        "lon": 6.868635773260952,
+        "dist_km": 3.874561,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 46.05737093444885,
+        "lon": 6.821270190210915,
+        "dist_km": 3.874623,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 46.02349197007747,
+        "lon": 6.908424681819186,
+        "dist_km": 3.875178,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 46.05757211457391,
+        "lon": 6.821453341944541,
+        "dist_km": 3.875577,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 46.00307288850131,
+        "lon": 6.868594982090176,
+        "dist_km": 3.876022,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 46.05744646088512,
+        "lon": 6.821302962500186,
+        "dist_km": 3.877257,
+        "osm_tag": "building",
+        "osm_val": "house"
+      },
+      {
+        "lat": 46.057350544884294,
+        "lon": 6.8212064512867014,
+        "dist_km": 3.877426,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 46.05740786480409,
+        "lon": 6.821244431789229,
+        "dist_km": 3.878578,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      }
+    ]
+  },
+  {
+    "zone_id": 16,
+    "rank_in_zone": 1,
+    "lat": 43.6979330342578,
+    "lon": 6.439959410423636,
+    "dist_km": 3.862843,
+    "x_l93": 977280.6,
+    "y_l93": 6294807.5,
+    "infras": [
+      {
+        "lat": 43.711773963573336,
+        "lon": 6.483910240239419,
+        "dist_km": 3.862843,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 43.69368927757123,
+        "lon": 6.392411574223334,
+        "dist_km": 3.862884,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 43.670735014452234,
+        "lon": 6.46978993737965,
+        "dist_km": 3.863203,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 43.670695525686035,
+        "lon": 6.469757300265272,
+        "dist_km": 3.865001,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 43.711846177700735,
+        "lon": 6.483905322642206,
+        "dist_km": 3.86568,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 43.71177684598831,
+        "lon": 6.483960860616903,
+        "dist_km": 3.866714,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 43.67069448811147,
+        "lon": 6.4697898089847,
+        "dist_km": 3.866722,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 43.67073686575531,
+        "lon": 6.46987302954422,
+        "dist_km": 3.867219,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 43.711803938689485,
+        "lon": 6.483958629259975,
+        "dist_km": 3.867747,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 43.69349686417959,
+        "lon": 6.39237224601202,
+        "dist_km": 3.868704,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      }
+    ]
+  },
+  {
+    "zone_id": 17,
+    "rank_in_zone": 1,
+    "lat": 49.214558811164096,
+    "lon": 4.631587351673296,
+    "dist_km": 3.876113,
+    "x_l93": 818884.6,
+    "y_l93": 6902878.5,
+    "infras": [
+      {
+        "lat": 49.22315670714261,
+        "lon": 4.6831395462507075,
+        "dist_km": 3.876113,
+        "osm_tag": "building",
+        "osm_val": "ruins"
+      },
+      {
+        "lat": 49.235870023849486,
+        "lon": 4.589493511624068,
+        "dist_km": 3.876116,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 49.22305273428768,
+        "lon": 4.6831799217697485,
+        "dist_km": 3.876132,
+        "osm_tag": "building",
+        "osm_val": "ruins"
+      },
+      {
+        "lat": 49.18014751954389,
+        "lon": 4.6231305703958485,
+        "dist_km": 3.876932,
+        "osm_tag": "building",
+        "osm_val": "ruins"
+      },
+      {
+        "lat": 49.23604520151399,
+        "lon": 4.589505763277618,
+        "dist_km": 3.887356,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 49.18007403877566,
+        "lon": 4.622911367506551,
+        "dist_km": 3.887569,
+        "osm_tag": "building",
+        "osm_val": "ruins"
+      },
+      {
+        "lat": 49.18001495654587,
+        "lon": 4.62329187317256,
+        "dist_km": 3.889645,
+        "osm_tag": "building",
+        "osm_val": "ruins"
+      },
+      {
+        "lat": 49.23587872463365,
+        "lon": 4.589174519723307,
+        "dist_km": 3.895118,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 49.18000293878434,
+        "lon": 4.622849126743613,
+        "dist_km": 3.896111,
+        "osm_tag": "building",
+        "osm_val": "ruins"
+      },
+      {
+        "lat": 49.22309815595218,
+        "lon": 4.683468841358784,
+        "dist_km": 3.897779,
+        "osm_tag": "building",
+        "osm_val": "ruins"
+      }
+    ]
+  },
+  {
+    "zone_id": 18,
+    "rank_in_zone": 1,
+    "lat": 42.42455404541409,
+    "lon": 2.1820914692841793,
+    "dist_km": 3.834248,
+    "x_l93": 632585.6,
+    "y_l93": 6147531,
+    "infras": [
+      {
+        "lat": 42.458555549137714,
+        "lon": 2.174485806369092,
+        "dist_km": 3.834248,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 42.45855974378819,
+        "lon": 2.174447050713617,
+        "dist_km": 3.835231,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 42.458596084996366,
+        "lon": 2.1744966153437755,
+        "dist_km": 3.838552,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 42.4586048384547,
+        "lon": 2.1744661415885123,
+        "dist_km": 3.839922,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 42.40048800164844,
+        "lon": 2.1467979457327635,
+        "dist_km": 3.954074,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 42.40038940874523,
+        "lon": 2.1468334932368953,
+        "dist_km": 3.95936,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 42.400464591191046,
+        "lon": 2.146680796543567,
+        "dist_km": 3.962948,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 42.400365992258806,
+        "lon": 2.1467155863174265,
+        "dist_km": 3.968268,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 42.46058670815861,
+        "lon": 2.175590744003094,
+        "dist_km": 4.044276,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 42.4606326883132,
+        "lon": 2.1757243997621414,
+        "dist_km": 4.047904,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      }
+    ]
+  },
+  {
+    "zone_id": 19,
+    "rank_in_zone": 1,
+    "lat": 45.35619147118992,
+    "lon": 6.773884604296409,
+    "dist_km": 3.784375,
+    "x_l93": 995376.6,
+    "y_l93": 6480037.5,
+    "infras": [
+      {
+        "lat": 45.35140330451098,
+        "lon": 6.821735760317138,
+        "dist_km": 3.784375,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 45.35092238329185,
+        "lon": 6.726135307841674,
+        "dist_km": 3.784385,
+        "osm_tag": "building",
+        "osm_val": "ruins"
+      },
+      {
+        "lat": 45.38036335791431,
+        "lon": 6.739802767329576,
+        "dist_km": 3.784736,
+        "osm_tag": "building",
+        "osm_val": "industrial"
+      },
+      {
+        "lat": 45.35144219794581,
+        "lon": 6.821784779711545,
+        "dist_km": 3.78757,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 45.351374961366346,
+        "lon": 6.821773768013211,
+        "dist_km": 3.787766,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 45.35099209806965,
+        "lon": 6.726072058270376,
+        "dist_km": 3.788087,
+        "osm_tag": "building",
+        "osm_val": "ruins"
+      },
+      {
+        "lat": 45.35138768986582,
+        "lon": 6.821797017085975,
+        "dist_km": 3.789369,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 45.35141832451619,
+        "lon": 6.821823893564512,
+        "dist_km": 3.790974,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 45.351439665728144,
+        "lon": 6.8218589216885395,
+        "dist_km": 3.793358,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 45.35086366964215,
+        "lon": 6.72600352890709,
+        "dist_km": 3.795592,
+        "osm_tag": "building",
+        "osm_val": "ruins"
+      }
+    ]
+  },
+  {
+    "zone_id": 20,
+    "rank_in_zone": 1,
+    "lat": 44.2497420038815,
+    "lon": -0.40739648312421617,
+    "dist_km": 3.739322,
+    "x_l93": 427987.5,
+    "y_l93": 6355950.5,
+    "infras": [
+      {
+        "lat": 44.28156733126022,
+        "lon": -0.422642925980552,
+        "dist_km": 3.739322,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 44.233372964041735,
+        "lon": -0.3664849393166252,
+        "dist_km": 3.739443,
+        "osm_tag": "building",
+        "osm_val": "bunker"
+      },
+      {
+        "lat": 44.22359569101439,
+        "lon": -0.4368942355418751,
+        "dist_km": 3.740188,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 44.22360219892192,
+        "lon": -0.4369741094735663,
+        "dist_km": 3.743649,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 44.28158691230763,
+        "lon": -0.42273738587883114,
+        "dist_km": 3.743839,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 44.23331054151382,
+        "lon": -0.36646400614428737,
+        "dist_km": 3.744281,
+        "osm_tag": "building",
+        "osm_val": "bunker"
+      },
+      {
+        "lat": 44.28167684158824,
+        "lon": -0.42259819559910655,
+        "dist_km": 3.74967,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 44.22347341145213,
+        "lon": -0.4369150193899719,
+        "dist_km": 3.751793,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 44.28169642267514,
+        "lon": -0.4226926556643024,
+        "dist_km": 3.754174,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 44.223479882625824,
+        "lon": -0.4369960655035527,
+        "dist_km": 3.755306,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      }
+    ]
+  },
+  {
+    "zone_id": 21,
+    "rank_in_zone": 1,
+    "lat": 49.102569527762284,
+    "lon": 4.434481979829022,
+    "dist_km": 3.733315,
+    "x_l93": 804750.6,
+    "y_l93": 6890145.5,
+    "infras": [
+      {
+        "lat": 49.098329800957956,
+        "lon": 4.485192642709717,
+        "dist_km": 3.733315,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 49.13421822844862,
+        "lon": 4.417435876501706,
+        "dist_km": 3.733548,
+        "osm_tag": "building",
+        "osm_val": "industrial"
+      },
+      {
+        "lat": 49.073942065399756,
+        "lon": 4.407787145012631,
+        "dist_km": 3.733608,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 49.07395133586589,
+        "lon": 4.407763442395114,
+        "dist_km": 3.733633,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 49.098410305526706,
+        "lon": 4.485227474128376,
+        "dist_km": 3.734716,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 49.07397033760198,
+        "lon": 4.407676696267945,
+        "dist_km": 3.735149,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 49.07393803126488,
+        "lon": 4.407747682177141,
+        "dist_km": 3.735496,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 49.07392426582543,
+        "lon": 4.407771262798896,
+        "dist_km": 3.735902,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 49.09835167246019,
+        "lon": 4.485242057027552,
+        "dist_km": 3.736588,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 49.09838294573117,
+        "lon": 4.485258359611002,
+        "dist_km": 3.737333,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      }
+    ]
+  },
+  {
+    "zone_id": 22,
+    "rank_in_zone": 1,
+    "lat": 44.200594806367064,
+    "lon": -0.6656440231394222,
+    "dist_km": 3.560083,
+    "x_l93": 407132.5,
+    "y_l93": 6351419.5,
+    "infras": [
+      {
+        "lat": 44.168552267405914,
+        "lon": -0.6652733613415137,
+        "dist_km": 3.560083,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 44.229227271973905,
+        "lon": -0.6856536823161197,
+        "dist_km": 3.56025,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 44.229216613952616,
+        "lon": -0.6857027257366058,
+        "dist_km": 3.560954,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 44.19244832802825,
+        "lon": -0.6225551751989636,
+        "dist_km": 3.561016,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 44.19238963895877,
+        "lon": -0.6225588660486152,
+        "dist_km": 3.562395,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 44.16853134290277,
+        "lon": -0.6652254584670856,
+        "dist_km": 3.562442,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 44.16852995353911,
+        "lon": -0.6651322638020637,
+        "dist_km": 3.562674,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 44.19256304220386,
+        "lon": -0.6224920513371125,
+        "dist_km": 3.562679,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 44.192526896084594,
+        "lon": -0.6224952238976447,
+        "dist_km": 3.563443,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 44.16851993735234,
+        "lon": -0.665297093942656,
+        "dist_km": 3.56366,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      }
+    ]
+  },
+  {
+    "zone_id": 23,
+    "rank_in_zone": 1,
+    "lat": 44.5857130159598,
+    "lon": 3.8130767669081043,
+    "dist_km": 3.56492,
+    "x_l93": 764542.6,
+    "y_l93": 6387735.5,
+    "infras": [
+      {
+        "lat": 44.55711643053416,
+        "lon": 3.8334552184029382,
+        "dist_km": 3.56492,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 44.60825307838095,
+        "lon": 3.7810931796219913,
+        "dist_km": 3.565436,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 44.60832017681244,
+        "lon": 3.7811531851603495,
+        "dist_km": 3.567289,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 44.60900055376358,
+        "lon": 3.8441303693172846,
+        "dist_km": 3.572905,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 44.55712358520147,
+        "lon": 3.833700073566796,
+        "dist_km": 3.57308,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 44.60829879020113,
+        "lon": 3.78099456436693,
+        "dist_km": 3.574574,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 44.6083658942528,
+        "lon": 3.7810537822280996,
+        "dist_km": 3.576467,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 44.60900840084948,
+        "lon": 3.844281725352061,
+        "dist_km": 3.581831,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 44.55694977716023,
+        "lon": 3.833468497558947,
+        "dist_km": 3.581903,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 44.55696144461349,
+        "lon": 3.833711844697859,
+        "dist_km": 3.589525,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      }
+    ]
+  },
+  {
+    "zone_id": 24,
+    "rank_in_zone": 1,
+    "lat": 45.08284027601249,
+    "lon": 6.5576532515984365,
+    "dist_km": 3.510497,
+    "x_l93": 979831.6,
+    "y_l93": 6448924.5,
+    "infras": [
+      {
+        "lat": 45.113912899151586,
+        "lon": 6.565835703681749,
+        "dist_km": 3.510497,
+        "osm_tag": "building",
+        "osm_val": "chapel"
+      },
+      {
+        "lat": 45.05943652171873,
+        "lon": 6.527670270120795,
+        "dist_km": 3.510582,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 45.059418355978536,
+        "lon": 6.527674687818805,
+        "dist_km": 3.511843,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 45.059432702836546,
+        "lon": 6.527648569942498,
+        "dist_km": 3.512044,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 45.08512276351112,
+        "lon": 6.602174988081895,
+        "dist_km": 3.512186,
+        "osm_tag": "building",
+        "osm_val": "shed"
+      },
+      {
+        "lat": 45.08518595655937,
+        "lon": 6.602171903497055,
+        "dist_km": 3.512456,
+        "osm_tag": "building",
+        "osm_val": "shed"
+      },
+      {
+        "lat": 45.05941453709719,
+        "lon": 6.52765298764725,
+        "dist_km": 3.513305,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 45.11394283139595,
+        "lon": 6.565886144418582,
+        "dist_km": 3.514494,
+        "osm_tag": "building",
+        "osm_val": "chapel"
+      },
+      {
+        "lat": 45.08512546438222,
+        "lon": 6.602230825269056,
+        "dist_km": 3.51659,
+        "osm_tag": "building",
+        "osm_val": "shed"
+      },
+      {
+        "lat": 45.085188683095375,
+        "lon": 6.6022269472121975,
+        "dist_km": 3.516797,
+        "osm_tag": "building",
+        "osm_val": "shed"
+      }
+    ]
+  },
+  {
+    "zone_id": 25,
+    "rank_in_zone": 1,
+    "lat": 49.18874856257611,
+    "lon": 4.365850207916936,
+    "dist_km": 3.471198,
+    "x_l93": 799573.6,
+    "y_l93": 6899640.5,
+    "infras": [
+      {
+        "lat": 49.187997137115914,
+        "lon": 4.41344806451769,
+        "dist_km": 3.471198,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 49.187781432993326,
+        "lon": 4.4134396009884655,
+        "dist_km": 3.471249,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 49.19801334758208,
+        "lon": 4.320379826715473,
+        "dist_km": 3.471261,
+        "osm_tag": "building",
+        "osm_val": "barn"
+      },
+      {
+        "lat": 49.188104531531955,
+        "lon": 4.41349129531364,
+        "dist_km": 3.474078,
+        "osm_tag": "building",
+        "osm_val": "barn"
+      },
+      {
+        "lat": 49.187906775119814,
+        "lon": 4.41348589396826,
+        "dist_km": 3.474215,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 49.16190781918576,
+        "lon": 4.341470638284623,
+        "dist_km": 3.474741,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 49.1879827686335,
+        "lon": 4.413523122724296,
+        "dist_km": 3.476708,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 49.188252225212764,
+        "lon": 4.413548488002052,
+        "dist_km": 3.477943,
+        "osm_tag": "building",
+        "osm_val": "barn"
+      },
+      {
+        "lat": 49.18809466754601,
+        "lon": 4.413565619308002,
+        "dist_km": 3.479519,
+        "osm_tag": "building",
+        "osm_val": "barn"
+      },
+      {
+        "lat": 49.187757210567945,
+        "lon": 4.413588125274701,
+        "dist_km": 3.482157,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      }
+    ]
+  },
+  {
+    "zone_id": 26,
+    "rank_in_zone": 1,
+    "lat": 45.2837659132945,
+    "lon": 6.149340188059621,
+    "dist_km": 3.477038,
+    "x_l93": 946843.6,
+    "y_l93": 6469857.5,
+    "infras": [
+      {
+        "lat": 45.278775105669325,
+        "lon": 6.193120946410258,
+        "dist_km": 3.477038,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 45.29367530658442,
+        "lon": 6.107263082516241,
+        "dist_km": 3.477303,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 45.264817444350264,
+        "lon": 6.114029937648573,
+        "dist_km": 3.477737,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 45.293706598219146,
+        "lon": 6.107272009563392,
+        "dist_km": 3.47774,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 45.27874281992953,
+        "lon": 6.19314701815407,
+        "dist_km": 3.47963,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 45.26470690268986,
+        "lon": 6.1141162757474055,
+        "dist_km": 3.479805,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 45.27880482047848,
+        "lon": 6.193184875595361,
+        "dist_km": 3.481461,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 45.26479630452088,
+        "lon": 6.113980106527583,
+        "dist_km": 3.482269,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 45.264777932693406,
+        "lon": 6.113992638211732,
+        "dist_km": 3.482722,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 45.27874168234257,
+        "lon": 6.19318684154114,
+        "dist_km": 3.482732,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      }
+    ]
+  },
+  {
+    "zone_id": 27,
+    "rank_in_zone": 1,
+    "lat": 49.98083867326186,
+    "lon": 4.761062380715241,
+    "dist_km": 3.477538,
+    "x_l93": 826415.6,
+    "y_l93": 6988331.5,
+    "infras": [
+      {
+        "lat": 49.988606735574216,
+        "lon": 4.714139992817296,
+        "dist_km": 3.477538,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 50.00699010113092,
+        "lon": 4.787568776747267,
+        "dist_km": 3.477915,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 49.95167036932798,
+        "lon": 4.77842206025355,
+        "dist_km": 3.478314,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 49.98866946213344,
+        "lon": 4.714151685489385,
+        "dist_km": 3.478467,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 49.988700855875564,
+        "lon": 4.7141553555163505,
+        "dist_km": 3.479089,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 49.95172478389055,
+        "lon": 4.778696370736955,
+        "dist_km": 3.479779,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 49.98861221264778,
+        "lon": 4.714069631380383,
+        "dist_km": 3.482582,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 49.98867491484248,
+        "lon": 4.714083065022091,
+        "dist_km": 3.483388,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 50.00704821497773,
+        "lon": 4.78758824381923,
+        "dist_km": 3.484096,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 49.98850093635876,
+        "lon": 4.713996209457752,
+        "dist_km": 3.484638,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      }
+    ]
+  },
+  {
+    "zone_id": 28,
+    "rank_in_zone": 1,
+    "lat": 45.37443960168146,
+    "lon": 6.970086819108098,
+    "dist_km": 3.447961,
+    "x_l93": 1010618.6,
+    "y_l93": 6482814.5,
+    "infras": [
+      {
+        "lat": 45.35570189084857,
+        "lon": 7.005204398471736,
+        "dist_km": 3.447961,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 45.36281704216993,
+        "lon": 6.929242280646998,
+        "dist_km": 3.448053,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 45.40140510543455,
+        "lon": 6.991930346798048,
+        "dist_km": 3.448165,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 45.35567041573087,
+        "lon": 7.005202132111956,
+        "dist_km": 3.449931,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 45.40145248793634,
+        "lon": 6.991865758527814,
+        "dist_km": 3.450236,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 45.401461879116034,
+        "lon": 6.99185523443268,
+        "dist_km": 3.450737,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 45.401456671627066,
+        "lon": 6.99187485791198,
+        "dist_km": 3.450992,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 45.40146122502307,
+        "lon": 6.991873585152002,
+        "dist_km": 3.451383,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 45.401466005929954,
+        "lon": 6.991865929532442,
+        "dist_km": 3.451548,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 45.35575168222893,
+        "lon": 7.005324674201306,
+        "dist_km": 3.452145,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      }
+    ]
+  },
+  {
+    "zone_id": 31,
+    "rank_in_zone": 1,
+    "lat": 48.70105552905081,
+    "lon": 4.3174409545384,
+    "dist_km": 3.841365,
+    "x_l93": 796949.6,
+    "y_l93": 6845354.5,
+    "infras": [
+      {
+        "lat": 48.67037314092462,
+        "lon": 4.341434344127391,
+        "dist_km": 3.841365,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 48.73519283193569,
+        "lon": 4.309341141859763,
+        "dist_km": 3.84193,
+        "osm_tag": "building",
+        "osm_val": "service"
+      },
+      {
+        "lat": 48.67033784546194,
+        "lon": 4.341373167413979,
+        "dist_km": 3.842784,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 48.67029682142298,
+        "lon": 4.341421350822391,
+        "dist_km": 3.848464,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 48.73525198505485,
+        "lon": 4.3092788792635375,
+        "dist_km": 3.849139,
+        "osm_tag": "building",
+        "osm_val": "service"
+      },
+      {
+        "lat": 48.67024844650652,
+        "lon": 4.341323336426897,
+        "dist_km": 3.849944,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 48.735289423820724,
+        "lon": 4.30955604888909,
+        "dist_km": 3.850126,
+        "osm_tag": "building",
+        "osm_val": "service"
+      },
+      {
+        "lat": 48.6702865005887,
+        "lon": 4.341539081943363,
+        "dist_km": 3.853465,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 48.67020283030534,
+        "lon": 4.341379890898298,
+        "dist_km": 3.856357,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 48.73534858636894,
+        "lon": 4.3094929367121155,
+        "dist_km": 3.85733,
+        "osm_tag": "building",
+        "osm_val": "service"
+      }
+    ]
+  },
+  {
+    "zone_id": 34,
+    "rank_in_zone": 1,
+    "lat": 42.39301903822938,
+    "lon": 8.866710806276647,
+    "dist_km": 4.565431,
+    "x_l93": 1183375.5,
+    "y_l93": 6161638.5,
+    "infras": [
+      {
+        "lat": 42.40197624476227,
+        "lon": 8.920739527897418,
+        "dist_km": 4.565431,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 42.375928850497964,
+        "lon": 8.816385305323623,
+        "dist_km": 4.565655,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 42.3759667725612,
+        "lon": 8.816351094440494,
+        "dist_km": 4.566465,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 42.401928988403085,
+        "lon": 8.920778824591,
+        "dist_km": 4.567451,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 42.37590061934175,
+        "lon": 8.816324758334517,
+        "dist_km": 4.571505,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 42.375938541384414,
+        "lon": 8.816290547428666,
+        "dist_km": 4.572314,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 42.40202869741104,
+        "lon": 8.920849740374827,
+        "dist_km": 4.575574,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 42.40198152517716,
+        "lon": 8.920887525317228,
+        "dist_km": 4.577469,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 42.402151046023796,
+        "lon": 8.92083781816453,
+        "dist_km": 4.577612,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      },
+      {
+        "lat": 42.40227398382369,
+        "lon": 8.920815313969028,
+        "dist_km": 4.578854,
+        "osm_tag": "building",
+        "osm_val": "yes"
+      }
+    ]
+  }
+]

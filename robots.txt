@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://data-summit.github.io/point-si-loin-que-ca/sitemap.xml
